@@ -69,9 +69,9 @@ const Footer: React.FC = () => {
         {/* Status & Tech */}
         <div className="flex flex-col items-center md:items-end">
           <div className="flex items-center gap-4 text-xs font-mono text-accent-base">
-            <span>STATUS: {copy.footer.status}</span>
+            <span>DISPONIBILIDAD: {copy.footer.status}</span>
             <span>//</span>
-            <span>SPIRIT: {copy.footer.spirit}</span>
+            <span>UBICACIÓN: {copy.footer.spirit}</span>
           </div>
           <p className="text-text-secondary text-xs mt-2 opacity-60">
             {copy.footer.tech}
