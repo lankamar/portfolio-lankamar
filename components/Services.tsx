@@ -9,7 +9,7 @@ const Services: React.FC = () => {
     visible: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.1
+        staggerChildren: 0.08
       }
     }
   };
@@ -23,29 +23,32 @@ const Services: React.FC = () => {
     }
   };
 
-  // Rutas internas para cada servicio
-  const serviceRoutes: { [key: string]: string } = {
-    'Simulador ECG PWA': '/simulador-ecg',
-    // Agregar rutas futuras aquí cuando estén listas
+  // Rutas internas (páginas del propio sitio)
+  const internalRoutes: { [key: string]: string } = {
+    'ECG Simulator': '/simulador-ecg'
   };
 
   return (
-    <section className="py-24 px-4 relative z-10">
+    <section id="proyectos" className="py-24 px-4 relative z-10">
       <div className="max-w-6xl mx-auto">
-        <h2 className="font-serif text-4xl md:text-5xl text-text-primary mb-16 text-center">
-          Servicios
+        <h2 className="font-serif text-4xl md:text-5xl text-text-primary mb-4 text-center">
+          Proyectos
         </h2>
-        
+        <p className="text-text-secondary text-center mb-16 max-w-2xl mx-auto">
+          Herramientas construidas para problemas reales, publicadas o en uso.
+        </p>
+
         <motion.div
-          className="grid grid-cols-1 md:grid-cols-3 gap-8"
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
           variants={containerVariants}
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, margin: "100px" }}
         >
           {copy.services.map((service, idx) => {
-            const route = serviceRoutes[service.title];
-            const CardContent = (
+            const route = internalRoutes[service.title];
+
+            const cardBody = (
               <>
                 <div className="text-4xl mb-6" role="img" aria-label={service.emoji_alt}>
                   {service.icon}
@@ -58,7 +61,17 @@ const Services: React.FC = () => {
                 </p>
                 {route && (
                   <div className="mt-4 text-accent-hover font-mono text-sm">
-                    → Ver proyecto
+                    → Abrir simulador
+                  </div>
+                )}
+                {!route && service.url && (
+                  <div className="mt-4 text-accent-hover font-mono text-sm">
+                    → {service.linkLabel || 'Ver más'}
+                  </div>
+                )}
+                {!route && !service.url && service.linkLabel && (
+                  <div className="mt-4 text-text-secondary font-mono text-sm opacity-70">
+                    {service.linkLabel}
                   </div>
                 )}
               </>
@@ -72,12 +85,21 @@ const Services: React.FC = () => {
                 transition={{ duration: 0.3 }}
               >
                 {route ? (
-                  <Link to={route} className="glass-card group block">
-                    {CardContent}
+                  <Link to={route} className="glass-card group block h-full">
+                    {cardBody}
                   </Link>
+                ) : service.url ? (
+                  <a
+                    href={service.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="glass-card group block h-full"
+                  >
+                    {cardBody}
+                  </a>
                 ) : (
-                  <div className="glass-card group">
-                    {CardContent}
+                  <div className="glass-card group h-full">
+                    {cardBody}
                   </div>
                 )}
               </motion.div>
