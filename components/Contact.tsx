@@ -70,20 +70,18 @@ const Contact: React.FC = () => {
     setStatus('submitting');
 
     try {
-      // Simulate API call
-      await new Promise(resolve => setTimeout(resolve, 1500));
-      
-      console.log('Form Submitted:', {
-        ...formData,
-        timestamp: new Date().toISOString()
-      });
+      // Sin backend: se abre el cliente de correo con el mensaje ya redactado.
+      const subject = encodeURIComponent(`Contacto desde el portfolio — ${formData.nombre}`);
+      const body = encodeURIComponent(
+        `${formData.mensaje}\n\n—\n${formData.nombre}\n${formData.email}`
+      );
+      window.location.href = `mailto:${copy.footer.links.email}?subject=${subject}&body=${body}`;
 
       setStatus('success');
       setFormData({ nombre: '', email: '', mensaje: '', website: '' });
-      
+
       // Reset success message after 5 seconds
       setTimeout(() => setStatus('idle'), 5000);
-
     } catch (error) {
       console.error('Error:', error);
       setStatus('error');
