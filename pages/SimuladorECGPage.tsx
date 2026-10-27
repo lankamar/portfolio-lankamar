@@ -1,24 +1,37 @@
-import React from 'react';
+import React from "react";
 
 export default function SimuladorECGPage() {
   return (
-    <div className="h-screen w-screen flex flex-col bg-black">
-      {/* Header con botón volver */}
-      <header className="bg-gradient-to-r from-gray-900 to-red-950 p-4 shadow-lg border-b border-red-900/30">
-        <a 
-          href="/" 
-          className="text-white hover:text-red-400 transition-colors duration-300 font-mono flex items-center gap-2"
-        >
-          <span className="text-xl">←</span>
-          <span>Volver al Portafolio</span>
+    <div
+      style={{
+        position: "fixed",
+        inset: 0,
+        display: "flex",
+        flexDirection: "column",
+        background: "#111",
+      }}
+    >
+      <header
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          padding: "8px 16px",
+          background: "#1c1c1d",
+          color: "#e8e8e8",
+          fontFamily: "Roboto, sans-serif",
+          fontSize: "14px",
+        }}
+      >
+        <a href="/" style={{ color: "#e8e8e8", textDecoration: "none" }}>
+          ← Volver al sitio
         </a>
+        <span style={{ opacity: 0.7 }}>ECG Simulator</span>
       </header>
-      
-      {/* Simulador embebido - pantalla completa */}
-      <iframe 
+      <iframe
         src="https://ecg-simulator2.vercel.app/"
-        className="flex-1 w-full border-0"
-        title="Simulador ECG - Arritmias Cardíacas"
+        style={{ flex: 1, width: "100%", border: 0 }}
+        title="Simulador ECG - Arritmias cardíacas"
         allow="fullscreen"
         loading="eager"
       />
