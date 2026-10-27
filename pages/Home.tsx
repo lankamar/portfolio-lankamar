@@ -50,7 +50,7 @@ export default function Home() {
             </Link>
             <a
               className="btn btn-outline"
-              href="/cv/cv-tech.pdf"
+              href="/documentos/cv-tech.pdf"
               download
             >
               <i className="fa-solid fa-file-arrow-down" aria-hidden="true" />{" "}

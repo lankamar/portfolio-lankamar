@@ -4,17 +4,17 @@ const variants = [
   {
     title: "CV — Tecnología e IA aplicada",
     desc: "Para roles junior de desarrollo, IA aplicada o soporte técnico.",
-    file: "/cv/cv-tech.pdf",
+    file: "/documentos/cv-tech.pdf",
   },
   {
     title: "CV — Salud y gestión",
     desc: "Para jefaturas, coordinación y gestión hospitalaria.",
-    file: "/cv/cv-salud.pdf",
+    file: "/documentos/cv-salud.pdf",
   },
   {
     title: "CV — Académico",
     desc: "Para docencia, investigación y formación.",
-    file: "/cv/cv-academico.pdf",
+    file: "/documentos/cv-academico.pdf",
   },
 ];
 
