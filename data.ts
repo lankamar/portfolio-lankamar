@@ -45,6 +45,10 @@ export const news: NewsItem[] = [
     text: "Nueva versión del portfolio, con verificación pública de credenciales.",
   },
   {
+    date: "2026",
+    text: "Máster Ejecutivo en Inteligencia Artificial (IIA): Trabajo Final de Máster entregado, en espera de calificación.",
+  },
+  {
     date: "2025",
     text: "Simulador de ECG y simulador de bombas de infusión publicados para práctica de enfermería.",
     href: "https://ecg-simulator2.vercel.app",
@@ -273,8 +277,9 @@ export const education: Study[] = [
   {
     title: "Máster Ejecutivo en Inteligencia Artificial",
     place: "Instituto de Inteligencia Artificial (IIA), España",
-    status: "en curso",
+    status: "en espera de calificación del TFM",
     year: "2025-2026",
+    detail: "Trabajo Final de Máster entregado; solo resta la calificación.",
   },
   {
     title: "Licenciatura en Enfermería",
