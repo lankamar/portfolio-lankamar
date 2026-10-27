@@ -20,6 +20,7 @@ export const site = {
     telegram: "https://t.me/quintadeenfermeria",
     tiktok: "https://www.tiktok.com/@marceloomarlancrykamycki",
     instagram: "https://www.instagram.com/lankamar/",
+    instagramReel: "https://www.instagram.com/reel/DUd44NdCSiu/",
     linkedinArticles: "https://www.linkedin.com/in/lankamar/recent-activity/articles/",
   },
 };

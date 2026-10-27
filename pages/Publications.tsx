@@ -93,11 +93,11 @@ export default function Publications() {
           <div className="actions">
             <a
               className="btn btn-outline"
-              href={site.links.instagram}
+              href={site.links.instagramReel}
               target="_blank"
               rel="noopener noreferrer"
             >
-              Seguir en Instagram
+              Ver reel
             </a>
           </div>
         </div>
