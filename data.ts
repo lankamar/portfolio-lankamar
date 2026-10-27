@@ -96,9 +96,19 @@ export type Project = {
   href?: string;
   linkLabel?: string;
   group: string;
+  image?: string;
 };
 
 export const projects: Project[] = [
+  {
+    name: "Una Salud — Portfolio Hub",
+    desc: "Artefacto pedagógico biforme sobre deforestación, Chagas y leishmaniasis en el Gran Chaco y las Yungas: cinco estaciones interactivas, laboratorio de simulación, fuentes indexadas y tutor socrático. Trabajo en equipo del Atelier CITEP-UBA; la arquitectura tecnopedagógica y el desarrollo web estuvieron a mi cargo.",
+    stack: ["React", "Tailwind", "Google AI Studio", "NotebookLM", "Chatbot socrático"],
+    href: "https://una-salud.ai.studio/",
+    linkLabel: "Ver sitio",
+    group: "Salud y educación",
+    image: "/proyectos/una-salud.png",
+  },
   {
     name: "ECG Simulator",
     desc: "Simulador de arritmias con doce derivaciones y ECG en tiempo real para formación de enfermería. Demo pública.",
@@ -354,6 +364,7 @@ export type Repo = {
   description: string | null;
   language: string | null;
   stars: number;
+  forks?: number;
   updated: string;
   url: string;
 };

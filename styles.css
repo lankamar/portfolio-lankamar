@@ -481,6 +481,25 @@ main {
   margin: 0.5rem 0 0;
 }
 
+.entry-body {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.entry-body > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-thumb {
+  width: 220px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  display: block;
+  flex: 0 0 auto;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;
@@ -567,22 +586,98 @@ main {
   margin-top: 14px;
 }
 
+.page-sub {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-bottom: 1.4rem;
+}
+
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 0.4rem;
+}
+
+.repo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 116px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--card);
+  color: var(--text);
+}
+
+.repo-card:hover {
+  text-decoration: none;
+  border-color: var(--border-strong);
+}
+
+.repo-name {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #0969da;
+  word-break: break-word;
+}
+
+.repo-name i {
+  font-size: 0.85rem;
+}
+
+.repo-card:hover .repo-name {
+  text-decoration: underline;
+}
+
+html[data-theme="dark"] .repo-name {
+  color: #58a6ff;
+}
+
+.repo-desc {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .repo-meta {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 14px;
+  margin-top: auto;
+  padding-top: 4px;
+  font-size: 0.75rem;
   color: var(--muted);
-  font-size: 0.87rem;
-  margin-top: 6px;
 }
 
-.repo-meta .dot {
+.repo-meta i {
+  margin-right: 4px;
+}
+
+.repo-lang {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.lang-dot {
   width: 9px;
   height: 9px;
   border-radius: 50%;
-  background: var(--accent);
   display: inline-block;
-  margin-right: 5px;
+}
+
+.repo-updated {
+  margin-left: auto;
 }
 
 .cv-card {
@@ -743,6 +838,18 @@ footer p {
 
   .grid-2 {
     grid-template-columns: 1fr;
+  }
+
+  .repo-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .entry-body {
+    flex-direction: column;
+  }
+
+  .project-thumb {
+    width: 100%;
   }
 
   .cv-card {

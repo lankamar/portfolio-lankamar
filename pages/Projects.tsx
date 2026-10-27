@@ -34,13 +34,25 @@ export default function Projects() {
                     <span className="entry-when">{p.linkLabel || "En uso"}</span>
                   )}
                 </div>
-                <p>{p.desc}</p>
-                <div className="chips">
-                  {p.stack.map((s) => (
-                    <span className="chip" key={s}>
-                      {s}
-                    </span>
-                  ))}
+                <div className="entry-body">
+                  <div>
+                    <p>{p.desc}</p>
+                    <div className="chips">
+                      {p.stack.map((s) => (
+                        <span className="chip" key={s}>
+                          {s}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                  {p.image && (
+                    <img
+                      className="project-thumb"
+                      src={p.image}
+                      alt={`Captura de ${p.name}`}
+                      loading="lazy"
+                    />
+                  )}
                 </div>
               </article>
             ))}
