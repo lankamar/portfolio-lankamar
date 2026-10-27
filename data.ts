@@ -107,7 +107,7 @@ export const projects: Project[] = [
     href: "https://una-salud.ai.studio/",
     linkLabel: "Ver sitio",
     group: "Salud y educación",
-    image: "/proyectos/una-salud.png",
+    image: "/capturas/una-salud.png",
   },
   {
     name: "ECG Simulator",
@@ -359,51 +359,75 @@ export const teaching = [
   },
 ];
 
-export type Repo = {
+export type FeaturedRepo = {
   name: string;
-  description: string | null;
+  desc: string;
   language: string | null;
-  stars: number;
-  forks?: number;
-  updated: string;
   url: string;
+  demo?: string;
 };
 
-export const fallbackRepos: Repo[] = [
+export const featuredRepos: FeaturedRepo[] = [
   {
-    name: "lector-alonso",
-    description:
-      "Extensión de Chrome + backend TTS local: lee selección, documentos y OCR en español. Sin nube, sin claves de API.",
-    language: "Python",
-    stars: 0,
-    updated: "",
-    url: "https://github.com/lankamar/lector-alonso",
+    name: "shock-room-simulator",
+    desc: "Monitor multiparamétrico para entrenar reconocimiento de ritmos y respuesta en shock room, sin depender de un equipo físico.",
+    language: "TypeScript",
+    url: "https://github.com/lankamar/shock-room-simulator",
   },
   {
     name: "ecg-simulator",
-    description:
-      "Simulador de arritmias con 12 derivaciones y ECG en tiempo real para formación de enfermería.",
+    desc: "Simulador de arritmias con 12 derivaciones y ECG en tiempo real para formación de enfermería.",
     language: "TypeScript",
-    stars: 0,
-    updated: "",
     url: "https://github.com/lankamar/ecg-simulator",
+    demo: "https://ecg-simulator2.vercel.app",
+  },
+  {
+    name: "simulador-bic",
+    desc: "App Flutter que reproduce bombas de infusión continua: cálculo de goteo, programación y alarmas para práctica segura.",
+    language: "Dart",
+    url: "https://github.com/lankamar/simulador-bic",
+  },
+  {
+    name: "qr-hospitalario",
+    desc: "Gestión de equipos hospitalarios con QR en el punto de uso: inventario, estado y trazabilidad desde el celular.",
+    language: "JavaScript",
+    url: "https://github.com/lankamar/qr-hospitalario",
+  },
+  {
+    name: "smart-pump-tracker",
+    desc: "Seguimiento de bombas de infusión inteligentes: nutrición, flujo de trabajo y control de los equipos en uso.",
+    language: "TypeScript",
+    url: "https://github.com/lankamar/smart-pump-tracker",
   },
   {
     name: "anonimizador-clinico",
-    description:
-      "Anonimizador local de datos clínicos compatible con la Ley 25.326.",
+    desc: "Anonimizador local de datos clínicos compatible con la Ley 25.326: procesa en la máquina, sin subir historias a la nube.",
     language: "Python",
-    stars: 0,
-    updated: "",
     url: "https://github.com/lankamar/anonimizador-clinico",
   },
   {
-    name: "portfolio-lankamar",
-    description:
-      "Portfolio profesional: enfermería, gestión hospitalaria e IA aplicada.",
-    language: "TypeScript",
-    stars: 0,
-    updated: "",
-    url: "https://github.com/lankamar/portfolio-lankamar",
+    name: "nurse-eval-ai",
+    desc: "Evaluación de desempeño de enfermería asistida por IA conversacional, con rúbricas y devolución trazable.",
+    language: "Python",
+    url: "https://github.com/lankamar/nurse-eval-ai",
+  },
+  {
+    name: "lector-alonso",
+    desc: "Extensión de Chrome y backend TTS local: lee selecciones, documentos y OCR en español sin nube ni claves de API.",
+    language: "Python",
+    url: "https://github.com/lankamar/lector-alonso",
+  },
+  {
+    name: "aprende-que-es-google-cloud",
+    desc: "Curso interactivo de 12 capítulos con narración para aprender Google Cloud desde cero.",
+    language: "HTML",
+    url: "https://github.com/lankamar/aprende-que-es-google-cloud",
+    demo: "https://lankamar.github.io/aprende-que-es-google-cloud/",
+  },
+  {
+    name: "CodeMindRAG",
+    desc: "RAG sobre repositorios con Ollama y ChromaDB: permite consultar el código propio en lenguaje natural.",
+    language: "Python",
+    url: "https://github.com/lankamar/CodeMindRAG",
   },
 ];

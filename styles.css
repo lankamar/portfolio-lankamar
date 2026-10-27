@@ -612,7 +612,6 @@ main {
 }
 
 .repo-card:hover {
-  text-decoration: none;
   border-color: var(--border-strong);
 }
 
@@ -676,8 +675,13 @@ html[data-theme="dark"] .repo-name {
   display: inline-block;
 }
 
-.repo-updated {
+.repo-demo {
   margin-left: auto;
+  font-weight: 500;
+}
+
+.repo-demo:hover {
+  text-decoration: underline;
 }
 
 .cv-card {
