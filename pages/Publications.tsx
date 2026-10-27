@@ -88,6 +88,21 @@ export default function Publications() {
         </div>
 
         <div className="card">
+          <h3>Instagram</h3>
+          <p>El día a día del servicio, la formación y los proyectos, en imágenes.</p>
+          <div className="actions">
+            <a
+              className="btn btn-outline"
+              href={site.links.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Seguir en Instagram
+            </a>
+          </div>
+        </div>
+
+        <div className="card">
           <h3>Telegram</h3>
           <p>Canal Quinta de Enfermería: materiales y novedades del servicio.</p>
           <div className="actions">

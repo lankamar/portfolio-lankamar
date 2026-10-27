@@ -6,9 +6,7 @@ import Social from "../components/Social";
 export default function Home() {
   return (
     <div className="container">
-      <h1>
-        Marcelo <b>Lancry Kamycki</b>
-      </h1>
+      <h1>Marcelo Lancry Kamycki</h1>
       <p className="affil">
         <b>Afiliaciones:</b> Hospital de Clínicas José de San Martín (UBA) ·
         CITEP-UBA

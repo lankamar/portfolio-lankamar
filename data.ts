@@ -19,6 +19,7 @@ export const site = {
     spotify: "https://open.spotify.com/user/lankamar",
     telegram: "https://t.me/quintadeenfermeria",
     tiktok: "https://www.tiktok.com/@marceloomarlancrykamycki",
+    instagram: "https://www.instagram.com/lankamar/",
     linkedinArticles: "https://www.linkedin.com/in/lankamar/recent-activity/articles/",
   },
 };

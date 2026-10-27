@@ -71,6 +71,12 @@ export default function Contact() {
           </a>
         </li>
         <li>
+          <i className="fa-brands fa-instagram" aria-hidden="true" />
+          <a href={site.links.instagram} target="_blank" rel="noopener noreferrer">
+            @lankamar
+          </a>
+        </li>
+        <li>
           <i className="fa-brands fa-tiktok" aria-hidden="true" />
           <a href={site.links.tiktok} target="_blank" rel="noopener noreferrer">
             @marceloomarlancrykamycki

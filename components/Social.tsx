@@ -15,6 +15,7 @@ export default function Social({ size }: Props) {
     { href: site.links.spotify, icon: "fa-brands fa-spotify", label: "Spotify" },
     { href: site.links.telegram, icon: "fa-brands fa-telegram", label: "Telegram" },
     { href: site.links.tiktok, icon: "fa-brands fa-tiktok", label: "TikTok" },
+    { href: site.links.instagram, icon: "fa-brands fa-instagram", label: "Instagram" },
   ];
 
   return (
