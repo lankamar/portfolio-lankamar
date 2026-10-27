@@ -41,6 +41,15 @@ export default function Experience() {
               </span>
             </div>
             <div className="entry-sub">{e.place}</div>
+            {e.detail && <p className="entry-detail">{e.detail}</p>}
+            {e.credential && (
+              <p className="entry-detail">
+                <a href={e.credential}>
+                  {e.credentialLabel || "Ver certificación"}{" "}
+                  <span aria-hidden="true">→</span>
+                </a>
+              </p>
+            )}
           </article>
         ))}
       </div>

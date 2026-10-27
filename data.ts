@@ -33,7 +33,12 @@ export const news: NewsItem[] = [
   },
   {
     date: "2026",
-    text: "Especialización en Diseño de la Enseñanza con Tecnologías (EDET, CITEP-UBA) en curso.",
+    text: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza (CITEP-UBA) concluida y aprobada; esperando la certificación.",
+  },
+  {
+    date: "2026",
+    text: "Certificación del curso VibeCoding en la enseñanza (CITEP-UBA), con registro público.",
+    href: "/credenciales/vibecoding-citep-2026/",
   },
   {
     date: "2026",
@@ -230,26 +235,46 @@ export type Study = {
   place: string;
   status: string;
   year: string;
+  detail?: string;
+  credential?: string;
+  credentialLabel?: string;
 };
 
 export const education: Study[] = [
   {
     title: "Especialización en Diseño de la Enseñanza con Tecnologías (EDET)",
     place: "CITEP — Secretaría de Asuntos Académicos, UBA",
-    status: "en curso",
+    status: "concluida · esperando certificación",
     year: "2026",
+    detail:
+      "Siete seminarios y talleres aprobados (7 de 7), 384 horas, promedio 9,43. Solo resta la emisión del certificado por trámite administrativo de la UBA.",
+    credential: "/credenciales/edet-uba-2026/",
+    credentialLabel: "Ver constancia de materias aprobadas",
+  },
+  {
+    title: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza",
+    place: "CITEP, UBA",
+    status: "concluida · esperando certificación",
+    year: "2026",
+    detail:
+      "Concluida y aprobada. Solo resta la emisión del certificado por trámite administrativo de la UBA.",
+  },
+  {
+    title:
+      "VibeCoding en la enseñanza. Artesanías didácticas en escenarios algoritmizados",
+    place: "CITEP-UBA · Programa de Formación Docente",
+    status: "acreditado",
+    year: "2026",
+    detail:
+      "40 horas · Resolución REREC-2026-290-E-UBA-REC · Registro N° 594, Libro 1.",
+    credential: "/credenciales/vibecoding-citep-2026/",
+    credentialLabel: "Ver certificación",
   },
   {
     title: "Máster Ejecutivo en Inteligencia Artificial",
     place: "Instituto de Inteligencia Artificial (IIA), España",
     status: "en curso",
     year: "2025-2026",
-  },
-  {
-    title: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza",
-    place: "CITEP, UBA",
-    status: "en curso",
-    year: "2026",
   },
   {
     title: "Licenciatura en Enfermería",
@@ -313,7 +338,7 @@ export const teaching = [
   {
     title: "Formación continua",
     place: "311 credenciales",
-    text: "Más de 300 certificaciones en salud, gestión y tecnología. Actualmente cursando la Especialización en Diseño de la Enseñanza con Tecnologías (EDET, CITEP-UBA).",
+    text: "Más de 300 certificaciones en salud, gestión y tecnología. La Especialización en Diseño de la Enseñanza con Tecnologías (EDET, CITEP-UBA) está concluida y aprobada; solo resta la emisión del certificado por trámite administrativo.",
   },
 ];
 
