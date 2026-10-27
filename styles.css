@@ -227,9 +227,14 @@ html[data-theme="light"] .theme-toggle .fa-sun {
   display: none;
 }
 
-html[data-theme="dark"] .btn,
-html[data-theme="dark"] .btn:hover {
+html[data-theme="dark"] .btn:not(.btn-outline),
+html[data-theme="dark"] .btn:not(.btn-outline):hover {
   color: #0c1a1f;
+}
+
+html[data-theme="dark"] .btn-outline,
+html[data-theme="dark"] .btn-outline:hover {
+  color: var(--accent);
 }
 
 html[data-theme="dark"] .badge {
