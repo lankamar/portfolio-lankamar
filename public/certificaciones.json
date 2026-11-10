@@ -1,0 +1,1875 @@
+[
+  {
+    "titulo": "Diplomatura en Inteligencia Artificial y prácticas de enseñanza de nivel medio y superior",
+    "emisor": "Universidad de Buenos Aires (CITEP–UBA)",
+    "fecha": "2026",
+    "enlace": "",
+    "estado": "Diplomatura aprobada · Certificado en trámite"
+  },
+  {
+    "titulo": "VibeCoding en la enseñanza. Artesanías didácticas en escenarios algoritmizados.",
+    "emisor": "Citep UBA",
+    "fecha": "ago. de 2026",
+    "enlace": "https://campus.citep.rec.uba.ar/pluginfile.php/306346/assignfeedback_file/feedback_files/39088/Marcelo Omar Lancry Kamycki.pdf?forcedownload=1"
+  },
+  {
+    "titulo": "CERTIFICADO DE INICIACIÓN AL DESARROLLO CON IA",
+    "emisor": "MoureDev",
+    "fecha": "jun. de 2026",
+    "enlace": "https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV3/Certificado-Marcelo-Omar-Lancry-Kamycki-9klz9jci.pdf"
+  },
+  {
+    "titulo": "Introduction to Large Language Models",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/66ff21bdfdfcfbc9a441d879c88caa353d2b0d23e74849d2418f73c03cd9ec40/"
+  },
+  {
+    "titulo": "Your Top AI Questions Answered: AI Literacy for Everyone",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/464b425be698893de131bdda57c45553099cd865d54b77c216d60c097c496eb0/"
+  },
+  {
+    "titulo": "Ethics in the Age of Generative AI",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/06e8a0be409727ae709fe378253b8aa8a793aca76262c764669326f932a69be4/"
+  },
+  {
+    "titulo": "Everyday AI Concepts",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/6a4af52cdc8bfb8b67491bfe8ca3efa7722957abf72c3da1274c0b41f12037d8/"
+  },
+  {
+    "titulo": "What Is Generative AI?",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/a1a01ac7bd91c41df63e2ca4ff03d6558fd1d9e6a010798c404a22daee13c81a/"
+  },
+  {
+    "titulo": "Enseñar y aprender con TIC",
+    "emisor": "Secretaría de Innovación, Ciencia y Tecnología",
+    "fecha": "abr. de 2026",
+    "enlace": "https://cursos.argentina.gob.ar/mod/customcert/view.php?id=4201&downloadown=1"
+  },
+  {
+    "titulo": "Claude Code in Action",
+    "emisor": "Anthropic",
+    "fecha": "mar. de 2026",
+    "enlace": "https://verify.skilljar.com/c/vavzdu2p24tf"
+  },
+  {
+    "titulo": "GitHub MCP Registry Esencial",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/4f9721e1ac06012ae758406df3c78f4ccd232d6b19504ab94d90e8d25858bcf4/"
+  },
+  {
+    "titulo": "IA agéntica: Retos y oportunidades para el liderazgo",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/96e8dc7d0eb0c4d7a28bfe1b85ca336089847e70246198ddd47e237d39e7e8f4/"
+  },
+  {
+    "titulo": "Habilidades imprescindibles, con LinkedIn Noticias y CEO de España y Latinoamérica",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/df8e6c23a9616dfb335f23bffe5683368085d121cca08ade403dc2ae95244812/"
+  },
+  {
+    "titulo": "Nano Tips para crear una propuesta de valor que dispare tu carrera, con Vicente Ferrio",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/30b47cb1bf5904cabfe604373565e0ea865674dd19f4539c595e011be926e695/"
+  },
+  {
+    "titulo": "Guía para la integración y gestión de agentes de IA en startups y pymes",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/abe0e7798d9ca1113fe82d92bf507dcae17448790ec0dbe98d08ff8a6f4458ee/"
+  },
+  {
+    "titulo": "Nano tips para preparar tu discurso como profesional de oratoria con Fernando Acaso",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/3c6cbb216c1c83e53730bf21f79fcda81d2efaf8613e6f86e933a12d0b1b1fc8/"
+  },
+  {
+    "titulo": "Nano tips para prosperar en tu carrera profesional con Luis Prado",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/640876bc4684915eb3dbc15b9ebde3af36e688a9d48854fe651f51f0e85d64b1/"
+  },
+  {
+    "titulo": "Nano tips para trabajar en el mundo híbrido, con Francisco Rábano",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/22ed87cafb12ca85906bfd5b457ba895f7fbac3cd011a800d3493d6ccaaedf39/"
+  },
+  {
+    "titulo": "Nano tips para multiplicar tu carisma",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/4c36c9fc9fdcd421119ff5aa851907f0245c4f8027b4fdaa2adfd5731bfdf4ca/"
+  },
+  {
+    "titulo": "Whisper: De texto a voz y de voz a texto con la IA",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/e705bfc92bdebdb7bc3ea53e85fb1d56d398d71652b6b5e4eb609e2da9b14fa0/"
+  },
+  {
+    "titulo": "Súbete a la IA: 10 formas de sacarle provecho",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/6887a0ebdd4e438243eedcbde9a11e8847312650ad07fd15e03951fbb42cd26b/"
+  },
+  {
+    "titulo": "Ciencia de datos y agentes de IA: Fundamentos y ciclo de desarrollo para la creación de multiagentes",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b2c2d5859b181b8d13eeef9c0fb24bbbdb3c6c01c09ac8f3dafc44a75aca792c/"
+  },
+  {
+    "titulo": "Salud mental, con LinkedIn Noticias y CEO de España y Latinoamérica",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b9c87b7e804ba570f426dd193cb1346c6b50235d9ea439a175c1222d57e549c0/"
+  },
+  {
+    "titulo": "Uso ético de la IA generativa en el trabajo",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/21869cdd3dc67c996a9e1894b91f16ce72ac5a0fee93c9b88315bade0a0e4d49/"
+  },
+  {
+    "titulo": "Construye tu estrategia tecnológica en IA generativa: De la oportunidad al diseño",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/2002b3eed3caf9d8544af5757149f873629a8302c8f1f06b28596e2fedc4d495/"
+  },
+  {
+    "titulo": "Nano Tips sobre errores típicos diseñando informes en Power BI",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/4e2a64d7c4dae25121bb5891ff3fffa472c00de135d5991d2172baf873915e42/"
+  },
+  {
+    "titulo": "Fundamentos de agentes de IA: Arquitecturas, Marcos y Aplicaciones",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b0e6d8b94b9a49e2a9c3ed6b4cf141e233be92b1ef7852e04e322a520f4c2806/"
+  },
+  {
+    "titulo": "Problemáticas sociales, desafíos éticos y sesgos de la inteligencia artificial generativa",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/348af537fc53eb5e01eb7d34e15fa7027d5206dda2427a875f033e18429a70a9/"
+  },
+  {
+    "titulo": "Nano Tips para un CV innovador: Desarrolla tu marca personal con Francisco Rábano",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/c29b2db66e1680d82fe2efe1a3f96e7a4537930ed729cf563ec557b66b5ee932/"
+  },
+  {
+    "titulo": "Uso de agentes de IA para potenciar la creatividad",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/6d6de70083ae28c4429183c457aa18f2ad7f0d47e47d05e37c259fcdd4a1bd0e/"
+  },
+  {
+    "titulo": "Nano tips para refrescar tu CV en 10 minutos con Luis Prado",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/0b505d8d88b1b4171054580b9ef5f9445bb30e720ddfaa58b916a51d9f589af0/"
+  },
+  {
+    "titulo": "Diseña los agentes de IA que tu empresa necesita con Microsoft Copilot Studio",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/697106289285a7a6d1024c8f54cd0acf9f1e78788d9fc253fc26b8888dd75e52/"
+  },
+  {
+    "titulo": "Nano Tips para mejorar las relaciones personales, con Vicente Ferrio",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/ae4ba0dea26d9983516e23e64493bb627d499da6ecf8a6da8e4737f9cb1affc6/"
+  },
+  {
+    "titulo": "OKR para impulsar alineación, autonomía y responsabilidad en el lugar de trabajo híbrido",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/1b593c5c4deefd2fc0f34c12846a35ef3dc50b30991b8e5df0832e8972d2313d/"
+  },
+  {
+    "titulo": "Inteligencia artificial para startups",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/5bb93be22a448aad4efadc4568cd622a15779d67a20943cdb69770cc85d2770b/"
+  },
+  {
+    "titulo": "Nano tips sobre el autoconocimiento y desarrollo con la IA, con Lorena Díaz Quijano",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/583e97b966b6c520f67da302c802a537f86a56445540cf690e81cded646f0c62/"
+  },
+  {
+    "titulo": "Producción de videotutoriales: Claves para la gestión eficiente del tiempo",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/1e42d287806494ac379175cc54ba5eae102d38794af743570d103417daa3f886/"
+  },
+  {
+    "titulo": "Cómo desarrollar tu imagen profesional en la era de la nueva normalidad",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/4e098091f8af90c180c8ddd1dd075e57a2a35d70f6733d5ae899724f9093476d/"
+  },
+  {
+    "titulo": "Diseño Inteligente: Exploración de ideas con IA",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/a3ef5fabc60b0b7d10a31e0c7234a6b3cfa9a43f0617fda82beef6d9065d3999/"
+  },
+  {
+    "titulo": "Word y Copilot: Crea y perfecciona documentos con IA",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/baa7c556e553e90144df909b3be46b4d5a56d7a20ec292e6706a7ba1564171b7/"
+  },
+  {
+    "titulo": "Refueza tu toma de decisiones con la IA Generativa",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/84afa2f0bee2e974f2d95e8cc5ee5a0e1ddb8113f10d9c80c00fcf7b611ab317/"
+  },
+  {
+    "titulo": "IA aplicada para aprendizaje y desarrollo: Herramientas y Agentes",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/f6fb31ac421d12049025cd22e3422c8b97671918c0c4b95b723789ec90ca6d15/"
+  },
+  {
+    "titulo": "Outlook y Copilot: Maximiza la eficiencia de tu jornada laboral",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/e66eb2f4e99ed2236a9502af0f30d04f36032de1af6d0ae288b45c2577ef1d89/"
+  },
+  {
+    "titulo": "IA generativa en aprendizaje y desarrollo",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/d185147126f0eaeda44dfaf2b92fa1d72ac9edd3409608d623f7c56b87620c95/"
+  },
+  {
+    "titulo": "Aplicaciones con Modelos de Lenguaje: Crea tu propio asistente de IA generativa",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/fd491c81b7806672849bbcc7bb136fc7a4d5e4c029a21e6b74576f0d81886388/"
+  },
+  {
+    "titulo": "Curso de Iniciación a los flujos de trabajo con Inteligencia Artificial",
+    "emisor": "BIG school",
+    "fecha": "sept. de 2025",
+    "enlace": "https://drive.google.com/file/d/1Yzsel79utoz2Y-p_L8KoQZM5qgpxaw_k/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook"
+  },
+  {
+    "titulo": "Inteligencia artificial para gerentes por Microsoft y LinkedIn",
+    "emisor": "Microsoft",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/5c8ed08cd85724272398fe2ae43e1b52fdb736ceefcc6df71c0cb784b754b00b/"
+  },
+  {
+    "titulo": "OpenAI para desarrollo esencial",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/62d977f822d4a0e1de4290949fdef8879ca85914492625bcdfc23a2bc9df7daa/"
+  },
+  {
+    "titulo": "Introducción a la IA Generativa y su aplicación en Salud",
+    "emisor": "IntraMed",
+    "fecha": "ago. de 2025",
+    "enlace": "https://campus.intramed.net/mod/customcert/view.php?id=24753&downloadown=1"
+  },
+  {
+    "titulo": "Agiliza tu trabajo con el chat de Microsoft Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/d6ad001937da02094aa7fd1fe8fed3dde1bf3eff43dcdd27a329318c3e01b348/"
+  },
+  {
+    "titulo": "Teams y Copilot: Colaboración potenciada por IA",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/21831c48bc13a3ffd3fdb9107de50e40011b22044dcd3ba71b1658902a29a72a/"
+  },
+  {
+    "titulo": "Usa Copilot AI para acceder a información segura de tu organización",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/5d26e0b90e4c6dc249102ea8a5b2302cf80fa9f822dabf68e6eefb843a0d7695/"
+  },
+  {
+    "titulo": "Copilot para Microsoft 365: El arte de escribir prompts",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/2051fafd4df116703d84e16f5f63b36c60becbf86c5e2ca451da383ee4ab0023/"
+  },
+  {
+    "titulo": "Aprende Microsoft 365 Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/19101005fae056543dd39adbc87ab60d3e74bc0e0faa663bb5a03e4a3a3d1654/"
+  },
+  {
+    "titulo": "ExperiencIA: Explora el mundo de la Inteligencia Artificial con Microsoft",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b843aa707a2ce56fa02c62eb43d8b6eca6b2a625e3c7897360c3fddfd09e3039/"
+  },
+  {
+    "titulo": "ExperiencIA: Microsoft Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/ddc0511bac500d153e21fe36769839f341d85464f08ca49c793aa687ce39726f/"
+  },
+  {
+    "titulo": "ExperiencIA: Evolución de las búsquedas online",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b1efcd3e52b06763169097d969da78da19ffad2c9213e326f1aaa5e87e89f5a5/"
+  },
+  {
+    "titulo": "Diseña tu propio GPT: ChatGPT como tu empresa lo necesita",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/c3dca17cec5bf66931f3b97ea96835199bd0f3277e934252aa824aecf22df557/"
+  },
+  {
+    "titulo": "Cómo crear una mentalidad de adaptabilidad en la era de la IA",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/0bf4251489b9d7bd0055369fe297c132e3019fe7dd0bc9463721952ec9128935/"
+  },
+  {
+    "titulo": "Guía del directivo para las conversaciones de carrera en la era de la IA",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/182ce03276a87993e396006dea649d6977e99ab6ed2613108379fd1af615d34f/"
+  },
+  {
+    "titulo": "Invertir en habilidades humanas en la era de la IA",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/01e41bda6ab289c22172eda3a04b0745ee169d4c421f62c277fdeca071d35168/"
+  },
+  {
+    "titulo": "ExperiencIA: Cómo ser más productivo con Microsoft Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/55274bbc20d4e2b91cfaa88fbab7442b4670e859db05b26e017168971224fae3/"
+  },
+  {
+    "titulo": "Aprovecha el poder de la inteligencia social en la era de la IA",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/ef7ae5257406ea6704e6c3d2dafa01433ba8efd75723b81822cb37f90feb8590/"
+  },
+  {
+    "titulo": "ExperiencIA: Inteligencia artificial generativa",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/aa25c2997cf8c302a2b0a2eccd456dbd59f7779fa38223e6e366ea701aed01b1/"
+  },
+  {
+    "titulo": "Transformación de la empresa con agentes de IA: Eficiencia y toma de decisiones autónomas",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/1c0d82b82fced5e62b63d4746f2fe96fef49adb452e120c37c5cff1d75fe9261/"
+  },
+  {
+    "titulo": "Azure: Machine learning e inteligencia artificial esencial",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/e02514cbb4782cb87ae1b58d4d561f5196255b6f5387d6308f2dc733ee6baecc/"
+  },
+  {
+    "titulo": "ExperiencIA: Historia de la Inteligencia Artificial",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/fb32ac0fae40781654fec7b12704dd35dd79ed74d01c717d3b83a73bc1c3d646/"
+  },
+  {
+    "titulo": "ExperiencIA: Ética en inteligencia artificial",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/0facee7223c278978f70e94bf32b0383160527b2710d97e93294d043dd52f36e/"
+  },
+  {
+    "titulo": "IA responsable para directivos",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/0c84a01c07ece362537daac7afd23cac6458af3afad2ae09bc9f5704a65a5207/"
+  },
+  {
+    "titulo": "Aumenta el impacto de tu coaching con la IA generativa",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/7d861c2235312d548d822054f7e6aa9cd431a725ba3a0391e02a9551344b2001/"
+  },
+  {
+    "titulo": "Retos y oportunidades de la IA para el liderazgo",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/275937504a361b3201fbea64f78d30afff3fa750a203bf359a65e0e14f60d168/"
+  },
+  {
+    "titulo": "Mantiene a tu equipo a la vanguardia de la innovación en IA",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/f8a49b22fcfd113c13cd9cf423cb8cf4417552e1879b6ee5f6bdd109b9d82381/"
+  },
+  {
+    "titulo": "Integración de la IA generativa en la estrategia empresarial",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/d384b01ac39fdc015252e2106260820b03b8853c1e9c4ea0600bd92b2e5f19b7/"
+  },
+  {
+    "titulo": "Desarrolla aptitudes para la IA en tu organización como líder",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/8c749840eb4a47cc3eb0bc3bcb7e1239e26406766cc18f0e8f4283c01a7a8a31/"
+  },
+  {
+    "titulo": "IA generativa para líderes empresariales",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/5b1aaa8a904c511ef36e937eeb2de815ee8a72a4e315448fea8ee1eccc082117/"
+  },
+  {
+    "titulo": "Nano tips: Consigue lo que te propongas",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/320b38d5208e557e659e42912f47e9848f36074a2b7aea7e11309e2f2a7ccc1a/"
+  },
+  {
+    "titulo": "Organizaciones basadas en habilidades: Implementación de planes",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/97e44af8ef150c84a00629f3894e82e67d43e0d1755df0fa70520c11939ffe64/"
+  },
+  {
+    "titulo": "Cómo desarrollar la inteligencia emocional",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/8bda2e7fcfdeceb2071f44621176eea01e0c5e90f81156c0d40cad896c5451d7/"
+  },
+  {
+    "titulo": "Innovación en la empresa",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/74bdabb06e65740cbbb595a79ff0fb9b00c70605df4dcb9aed749759d557d37d/"
+  },
+  {
+    "titulo": "Formación de formadores en el ámbito empresarial",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/7c34a3ab3f4c191e216fb0f1017314213f4e37e75ada345dcddc11684c891e9b/"
+  },
+  {
+    "titulo": "Creación de contenido: 10 habilidades laborales clave",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/079c1bb57c39dc344880217fef012565bd88f42e6e029c1b1a6b948a9cbe2337/"
+  },
+  {
+    "titulo": "Herramientas de IA para docentes (segunda parte)",
+    "emisor": "Universidad Nacional de Córdoba",
+    "fecha": "mar. de 2025",
+    "enlace": "https://campus.aulavirtual.unc.edu.ar/mod/customcert/view.php?id=5405&downloadown=1"
+  },
+  {
+    "titulo": "Herramientas de inteligencia artificial para docentes 1",
+    "emisor": "Universidad Nacional de Córdoba",
+    "fecha": "mar. de 2025",
+    "enlace": "https://campus.aulavirtual.unc.edu.ar/mod/customcert/view.php?id=5339&downloadown=1"
+  },
+  {
+    "titulo": "Nano tips para gestionar personas difíciles",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/2e7b0923fb5068ce4546c15be7a514cb4edd5558ef8ee4bd71fb45508302cebb/"
+  },
+  {
+    "titulo": "Inteligencia artificial generativa para impulsar la solución creativa de problemas",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/d944ae0030cdeaa73178b60c36d432fb8b84e24f667777b94122f4536f7a292d/"
+  },
+  {
+    "titulo": "Nano tips para presentar una idea en la empresa con éxito",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/1361a5755e104baa84fdecaf27de91acadd9c6612d121da6d638e766318eadc0/"
+  },
+  {
+    "titulo": "Aprovechar la IA generativa para la gestión de proyectos",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/0f3fa31b233e44ebdaaa52819cc262e16851d42121e23802478da1bfe205bb4d/"
+  },
+  {
+    "titulo": "Empodera a tu equipo con la inteligencia artificial",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/b21da03b4033755e8b2816962e249db1f6bfee16184bb86bcf355afd91e7b328/"
+  },
+  {
+    "titulo": "Entrevista de trabajo para RR. HH.: Preguntas que revelan las habilidades transferibles",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/5399258e3c7b978a01d5062ca8773bc279f1a40f07f48ac3e15e22cc1d9886bd/"
+  },
+  {
+    "titulo": "Nano Tips: Estrategias de éxito para nuevos equipos con Francisco Rábano",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/996f3b4e6052d4e514d33d4ae2f03e9fc74bd263051001b326ebc023735c800b/"
+  },
+  {
+    "titulo": "Nano Tips: Potencia tus talentos con Francisco Rábano",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/9e9b15defc95778c5aedd581f03f22bfc875ff094c9e97d647459c0f0059c4d9/"
+  },
+  {
+    "titulo": "Lidera la IA responsable en las organizaciones",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/aab84c38be8894412b0a5b03574c40b20eb8779af0741b764cb80280eed76eec/"
+  },
+  {
+    "titulo": "Descubre el uso de agentes de IA para mejorar la colaboración en tu equipo",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2025",
+    "enlace": "https://www.linkedin.com/learning/certificates/7434edd003e8f02901382ae644c2ba986c3cb2aaac62818a5ccf9527be7f471e/"
+  },
+  {
+    "titulo": "Transformación digital: Equipos online y trabajo colaborativo",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/4583699ed083654eaaef21f90710d0fd9981c0eb3b231b31047513e3d48da3fc/"
+  },
+  {
+    "titulo": "LinkedIn para recursos humanos",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3c473c81ba7a2eb5f50bec8e7ba43a9b0cf3bcb0188302c4cd802e6be94d3873/"
+  },
+  {
+    "titulo": "El error como motor de innovación y crecimiento",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/c437731515a0c43e6c14258e520d8f626ecaf982fb765ae193fcc87348cd34b0/"
+  },
+  {
+    "titulo": "Nano Tips para integrar recursos interactivos en documentos de Excel",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/dd5a1bb6c0bdc7197e65930c6ccc3427a1bf774599cf0c590a8c3596dda9280d/"
+  },
+  {
+    "titulo": "Nano Tips para trabajar con tablas dinámicas en Excel",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ce638a404670f7073c14aef38f8ddd6238cabf3d2ad55ece6f2ddcdd62e54800/"
+  },
+  {
+    "titulo": "Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/6b1b13ea298317416c0f3bd89f1a22064ba02b1880a13c55a405aaaa125435e3/"
+  },
+  {
+    "titulo": "Cómo la inteligencia artificial generativa está transformando las empresas",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3cadcd86b8d652139724fa210f789a2f4e82b3a6aa799f5f775b248af00da8f4/"
+  },
+  {
+    "titulo": "Transformación digital: El rol del CTO",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e7675bdba2580b68f60220221f694c92b75a606fca96a8b0800d2d31f0c52596/"
+  },
+  {
+    "titulo": "Fundamentos de Recursos humanos: Estrategias de remuneración",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/a2d826b6b8f03a81d8137ccd8710d4e8496456fe41f7cb047bd93959610ea9ca/"
+  },
+  {
+    "titulo": "PowerPoint esencial (Office 365/Microsoft 365)",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/7d4e10fe9716fea713cefb8a9b98490eac0bb8fe447cdc123625dd0806b268ee/"
+  },
+  {
+    "titulo": "Introducción al Reglamento sobre Inteligencia Artificial de la Unión Europea",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e46605e89b9cbb23e85be19d3ce73b2b7f9069d473c01c4e31abd49bfa3ca31f/"
+  },
+  {
+    "titulo": "Amplifica tu pensamiento crítico con la IA generativa",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/11769611ba083bdaab86f9da581a4d4c8a327eb1f4fa7ca26eab55117f1fe982/"
+  },
+  {
+    "titulo": "Accede a la dirección con el impulso de la Inteligencia Artificial",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/f19f7005d34c3798716eea28a0b103152331800204ad2c13f27401254c403ad2/"
+  },
+  {
+    "titulo": "Fundamentos del personal branding",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/116d3b46796ba28a88f3fb0c1a18a50c8b3a0b6520a9d2b227cdfbcca9c7e6f0/"
+  },
+  {
+    "titulo": "Graphic Design Essentials",
+    "emisor": "Canva",
+    "fecha": "nov. de 2024",
+    "enlace": "https://canva.com/designschool/certification-award/98d4982e-59c3-400a-9ddf-fb925f7b58c2"
+  },
+  {
+    "titulo": "Teacher Essentials",
+    "emisor": "Canva",
+    "fecha": "nov. de 2024",
+    "enlace": "https://canva.com/designschool/certification-award/c3f3f545-1c79-41e1-a35a-a8f48f3fe96f"
+  },
+  {
+    "titulo": "Canva Essentials",
+    "emisor": "Canva",
+    "fecha": "nov. de 2024",
+    "enlace": "https://canva.com/designschool/certification-award/f96b199a-64a3-470b-aacf-45f77896cd30"
+  },
+  {
+    "titulo": "Nano Tips para generar gráficos atractivos en Excel",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/edb84c74b5ef7d8a3705c2c291f27d1941c8a242f4df9b0a19e4a234c18dd4d5/"
+  },
+  {
+    "titulo": "Nano Tips para aplicar formatación condicional en Excel",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/01446cda5cb89d69fed683263c2a167511e0b66f8f10ee4aabc528e606068358/"
+  },
+  {
+    "titulo": "Nano Tips para trabajar con fechas en Excel",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/666f5b818c6dcc387bfdb2e165dadd71c43a2ef04b88728e367bad6b5c916d8f/"
+  },
+  {
+    "titulo": "Cómo desarrollar tu propia capacidad de adaptación",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b8fc50a7728fc3c9807672b9724789ed5e2bd288ad10f2f4948db87a708502a7/"
+  },
+  {
+    "titulo": "El bienestar digital y el derecho a la desconexión",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/c5435c9ccd7a91901411fd885c5375a419cf76a571a3ee920a283d84f97aba64/"
+  },
+  {
+    "titulo": "Digital Sustainability: How to Reduce Your Digital Footprint",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/5a987c9caf98f20ef9e698f2cf2ff394aa5ce8859ff6765dce5ae7abb11246eb/"
+  },
+  {
+    "titulo": "Desarrolla tus habilidades de productividad con IA generativa con Microsoft y LinkedIn",
+    "emisor": "Microsoft",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/21152f56a72d3b0b6245579aeb40a131668a82932d3f80a82ff6452ac7a4b8a3/"
+  },
+  {
+    "titulo": "Gestiona tu entrevista de trabajo en videoconferencia",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ea932c7e1fd6bfd7b51fd2aa4b81e070ac86a2d49a85f19b848fccd3452e2b67/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Riesgos",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3cd58b292c471243209befbb4aedcd81ce744c6417ec673147962c7355be0710/"
+  },
+  {
+    "titulo": "Cómo gestionar al personal de alto rendimiento",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/2247bfd343ba231cb1b9b37f8a66328d890697d655d4fe5919147a034c05dd3d/"
+  },
+  {
+    "titulo": "Inteligencia Artificial para la Enseñanza de Enfermería",
+    "emisor": "Cámara Argentina para la Formación Profesional y Capacitación Laboral",
+    "fecha": "ago. de 2024",
+    "enlace": "https://socios.camaraargentina.com.ar/seguimiento/41093/t1zIVI"
+  },
+  {
+    "titulo": "Mentoring para el aprendizaje y desarrollo",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e2dca0d508d99dbf0eba8a713f5906864e15c4828baed44065616c55333bf1db/"
+  },
+  {
+    "titulo": "LinkedIn para ventas",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b6ec1ba1eb68b3dfd21262c1bd41a337295be72d9360a4dec84feec1eb4ed4a9/"
+  },
+  {
+    "titulo": "Excel y Copilot: Análisis de datos asistido por IA",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/57fe4ba23d69d294f0bf49c432c2b7c5d11d60b38b48ecd8bb33b748839dbb9d/"
+  },
+  {
+    "titulo": "Prompts para IA: Plantillas para email corporativos",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/8b8f031b934bfcc040c937b8417348373a67f6e08f90b301810c0ef16f35b95b/"
+  },
+  {
+    "titulo": "Trucos de productividad con IA para reimaginar tu jornada laboral y tu carrera profesional",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e32555168d2d64380cb2002f495d9284409e6c1a400eee251569002a57199200/"
+  },
+  {
+    "titulo": "Aprende Microsoft Office 365",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/2d7b01223b5f3cfd2f29e28ee3e738ea1a4af97b49afde19411cced7e4b5958b/"
+  },
+  {
+    "titulo": "Trucos rápidos de Outlook (Office 365/Microsoft 365)",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/4ea8d7885a3c0c626882c17ead7c3fb2be123a6fd228417c6ff3b9917e6e2484/"
+  },
+  {
+    "titulo": "Copilot en PowerPoint: crea presentaciones impactantes con inteligencia artificial",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/021c4b042ff4b3b97553cf837b37d44a97d2fa61d74d5e0f656647f5d337977e/"
+  },
+  {
+    "titulo": "Nano Tips para desarrollar tu potencial con Izanami Martínez",
+    "emisor": "LinkedIn",
+    "fecha": "ago. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1e4fde8c60b82e93707bfbb28076ecbdbc45b97cf3d87c60ca6d3d27a934413e/"
+  },
+  {
+    "titulo": "Pensamiento crítico para ponderar y decidir mejor",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/578178598b01867aa158e4bf88f583fcb24c64582d25e1ae638181d4eb25f142/"
+  },
+  {
+    "titulo": "8 habilidades personales clave para profesionales del sector tecnológico",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/5eef3b597aeb4fb684425ab35ccd2fc0858387f2ef2c283959b27ca4b6ddae98/"
+  },
+  {
+    "titulo": "8 habilidades comunicativas para profesionales del sector tecnológico",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b86e749ff7d076152d711f950c42938512af76c639cc7a3ff928211bc8f56ba2/"
+  },
+  {
+    "titulo": "8 habilidades sociales clave para profesionales del sector tecnológico",
+    "emisor": "LinkedIn",
+    "fecha": "jul. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/8b898ca9e042d0c1fabed7d7306d4ae49b247c1455e06b9846a94d637713a948/"
+  },
+  {
+    "titulo": "Fundamentos de inteligencia artificial",
+    "emisor": "Capacítate para el empleo",
+    "fecha": "jul. de 2024",
+    "enlace": "https://capacitateparaelempleo.org/verifica/776eaa03-f15d-4a71-959d-00220f4527ce/57277833-df16-4bc4-b63b-5f44a120d873"
+  },
+  {
+    "titulo": "Build AI Literacy in Your Organization as a Business Leader",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/c41bf269db36ccfef9e5301c60a12e1030755a937ba40313183a1afa886f5f4a/"
+  },
+  {
+    "titulo": "El lenguaje de la influencia: Cómo conectar y liberar el potencial de las conversaciones",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/818352683532b8fdbc22f4b94d0a883ff30da797e292787f0a2d35f75cb71f6f/"
+  },
+  {
+    "titulo": "Fundamentos de la resolución de conflictos",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/d089d3197a03c814f482c10c98de14e665529e08d9e6ca498f0f7ef116855769/"
+  },
+  {
+    "titulo": "Excel: Tablas dinámicas (Office 365/Microsoft 365)",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/8c65f751263fc1ec022b2c66c381dcade838bf55f7fbc8f9c795d88c5f1e3936/"
+  },
+  {
+    "titulo": "Diplomatura en “BIENESTAR ¿ES ESTAR BIEN? Claves para conocernos y entrenarnos”",
+    "emisor": "DIRECCION DE OBRA SOCIAL UNIVERSIDAD DE BUENOS AIRES",
+    "fecha": "jun. de 2024",
+    "enlace": "https://1drv.ms/b/s!AphZndCnJh8JhOQkUj7vjPGBSMaYeg?e=WA5YvH"
+  },
+  {
+    "titulo": "LinkedIn para Social Selling",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ffc2b2366c2579745fecf0ba861ea0c33add92a0a040b3a1c7ef74f33faccb1c/"
+  },
+  {
+    "titulo": "Storytelling para el liderazgo",
+    "emisor": "LinkedIn",
+    "fecha": "jun. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/d383f8870e7c2126a692f7f689f2f4c1ac38be28be844fc97a7a90000b4c6939/"
+  },
+  {
+    "titulo": "Nano Tips para pedir un aumento salarial, con Lucía Aguilar",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/152252638f20e9dfc6078bc69d02e2974311204585412a3d3975de18183d1e63/"
+  },
+  {
+    "titulo": "Presentaciones orales online efectivas",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e96f8ef2170a9bdec489f5e9a58e31cb12714bc53ff512ec06cc376f2316179f/"
+  },
+  {
+    "titulo": "Visualización de datos para análisis de datos",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/02c83a2c673465ad1746c1f56f8b0e2f4ae7631ab60de9187a54dfada05cfac1/"
+  },
+  {
+    "titulo": "CURSO DE CONSIDERACIONES ETICAS EN INVESTIGACION",
+    "emisor": "Hospital de Clínicas \"José de San Martín\" Universidad de Buenos Aires",
+    "fecha": "may. de 2024",
+    "enlace": null
+  },
+  {
+    "titulo": "Diseño + IA: Cómo convertirte en un UX/UI todo terreno",
+    "emisor": "Desafío Latam",
+    "fecha": "may. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/ey6lqhkven"
+  },
+  {
+    "titulo": "8 habilidades para mujeres profesionales del sector tecnológico",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/d22bf83f7c20536d1d7176f6bee5c25ddf7b7938ca24a25355caad2153fd36e6/"
+  },
+  {
+    "titulo": "Herramientas de Gestión de Calidad. 1° Edición",
+    "emisor": "Ministerio de Salud de la Nación",
+    "fecha": "may. de 2024",
+    "enlace": "https://pvs.msal.gov.ar/mod/customcert/verify_certificate.php?code=CpjdutrY4G&qrcode=1"
+  },
+  {
+    "titulo": "Nano Tips para diseñar tu mañana para empezar el día con éxito con Adrià Solà",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ff4cc3ccf7fda799620080dc636ac5debd90a079df85c98120e278a9aef5f499/"
+  },
+  {
+    "titulo": "Comunicación corporativa: Tips y mejores prácticas",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/11f8dd8eb6cf270c6020a695a8f08f38eb659d455d6684231431b43ca6c7c79b/"
+  },
+  {
+    "titulo": "Habilidades de vida con un café",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1dd70d75a62dbb3edeca6ead35bc16d1dd2354f7381363d6b6b81a985648828d/"
+  },
+  {
+    "titulo": "Aprende Power BI desde cero",
+    "emisor": "Desafío Latam",
+    "fecha": "may. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/3rrubbviyf"
+  },
+  {
+    "titulo": "Generación de emprendimientos de Base Tecnológica",
+    "emisor": "Universidad Nacional de Córdoba",
+    "fecha": "may. de 2024",
+    "enlace": "https://campus.aulavirtual.unc.edu.ar/mod/customcert/view.php?id=1981&downloadown=1"
+  },
+  {
+    "titulo": "Nano Tips para ser más productivo y potenciar tu progreso con Adrià Solà",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/40fb71f936e2e9ed1b2853bc5ce02e79c166bd8d2cda67981989b493f0ce8971/"
+  },
+  {
+    "titulo": "¡Aprende lo que sabe un experto sobre Ciberseguridad!",
+    "emisor": "Desafío Latam",
+    "fecha": "may. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/bpc4ob0hsy"
+  },
+  {
+    "titulo": "Un día como Data Analyst",
+    "emisor": "Desafío Latam",
+    "fecha": "may. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/p8mtwm2e0a"
+  },
+  {
+    "titulo": "Trucos para cambiar o crear nuevos hábitos",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/2bdb9511eaff587708a095abf8ab84b783a7fcb0ecccd22ffb7141a42ecc0d87/"
+  },
+  {
+    "titulo": "Inteligencia artificial: Ciencias e hitos que han construido el futuro",
+    "emisor": "LinkedIn",
+    "fecha": "may. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1428c2620174214512db9903a228b89446531b09e93d8facdc2f64f9d6406d28/"
+  },
+  {
+    "titulo": "Liderazgo ágil: Cómo afrontar la nueva normalidad",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/7d828fe0bcb72c3eae42b70196761129cb561d74226386f3228f7a4fa6f92875/"
+  },
+  {
+    "titulo": "Cómo armar tu 1er página web acompañado con IA",
+    "emisor": "Desafío Latam",
+    "fecha": "abr. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/"
+  },
+  {
+    "titulo": "Desafíos y oportunidades para usarla como genios",
+    "emisor": "Desafío Latam",
+    "fecha": "abr. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/n3ksofoags"
+  },
+  {
+    "titulo": "Programación y productividad: Chat GPT para profesionales TI",
+    "emisor": "Desafío Latam",
+    "fecha": "abr. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/xg8cgze49g"
+  },
+  {
+    "titulo": "¡Te enseñamos a hacer asistentes con IA gratis!",
+    "emisor": "Desafío Latam",
+    "fecha": "abr. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/rigfwgssh4"
+  },
+  {
+    "titulo": "Cómo ser un líder de productos centrado en la IA (Beta)",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/f2cbb9c3bf35976c05b6358c05c9b82924f61897b098fae9d0743231bc82f8d8/"
+  },
+  {
+    "titulo": "Inteligencia artificial para recursos humanos",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/dea1c859e70481d15769dc2587fdaa153171a49aeaccf845d078e3afa271b148/"
+  },
+  {
+    "titulo": "Las personas y el futuro del trabajo: Upskill, reskill y habilidades del futuro",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/6dcda22b9f4e90d6806120c298c1803cdfcd445dd94c8681e8ff16cc7920f3f7/"
+  },
+  {
+    "titulo": "Finder",
+    "emisor": "Inttelmex IT",
+    "fecha": "abr. de 2024",
+    "enlace": "https://capacitateparaelempleo.org/verifica/776eaa03-f15d-4a71-959d-00220f4527ce/e0696846-4962-40a6-a1f8-5f4c7488ee2e"
+  },
+  {
+    "titulo": "Fundamentos del aprendizaje electrónico: Diseño instruccional o educativo",
+    "emisor": "LinkedIn",
+    "fecha": "abr. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b35ce53dfa8386a656eb0eef182138f055c8c0e9ebc34bbfc4a01e7906c79eb7/"
+  },
+  {
+    "titulo": "Plantilla: Curriculum vitae con Word",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b6c97bef2ba125ed4ec747f88ea71faad79518f09798be5a5fac7e9ebe3cfb7a/"
+  },
+  {
+    "titulo": "ShutUp and StartUp: de técnicos a emprendedores",
+    "emisor": "Desafío Latam",
+    "fecha": "mar. de 2024",
+    "enlace": "https://cursos.desafiolatam.com/certificates/ntnzgrvaaz"
+  },
+  {
+    "titulo": "Cómo trabajar con gente difícil",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b81aebfa9f9449c30eebb714cd38e3d2728d29b86c365cf1143c077b52f7aba1/"
+  },
+  {
+    "titulo": "Búsqueda de empleo con inteligencia artificial",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3cbb73b5f32d7cc2e0eb6f9dd6f391441d4f9cb02d5d6ad6ea0383f9a86a4b5d/"
+  },
+  {
+    "titulo": "Recomendaciones de Microsoft para implementar IA en los negocios",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/33ab30e46846bb3c2a98a6d06104129b76ae8d66b8ed31d7cd833309fb5b0a24/"
+  },
+  {
+    "titulo": "Cómo construir hábitos para el éxito",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/31851c5421e799f67e94eef54fbaa9a812ab9d675a2bd00b9f9589dedae80ba9/"
+  },
+  {
+    "titulo": "Big data, recursos humanos y gestión del bienestar laboral",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/90d6ec001053281ceaa2f38e637854f8cfbf09d7fa0a06f9f807567e24f645ff/"
+  },
+  {
+    "titulo": "Cómo crear impacto: Ejemplos para liderar el cambio sostenible",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/21a69a1636dd16bdf5a9f18cd3d3e1ee1c4c4bf071b318ba2d4d01d608f1aa9a/"
+  },
+  {
+    "titulo": "Cómo identificar tu propósito",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1797c4ae43fb8a4837625234268946d7712623be60a5907b3a58636e1bcdf56e/"
+  },
+  {
+    "titulo": "Transformación digital: El rol de recursos humanos",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ab2ce8f517f1f36837043abb702f6d399976384c02f3bfe7676f56d38798e2ac/"
+  },
+  {
+    "titulo": "Prompt Engineering: How to Talk to the AIs",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/0fa76c431cafd87dc543c9b2bcc9aefac4f948bc94ceb6983a7e908e1c9b6037/"
+  },
+  {
+    "titulo": "Introducción a ChatGPT",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1d44eafc1535053db7563e5c62c2431adbe0b4dbf0f433cc75d0f85b1c9c3fcb/"
+  },
+  {
+    "titulo": "Transformación digital: Cómo implementarla",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/9de4be8b20961fb5ddadd4a0fe71da71d621f05ded3bfcf34615c292765d347d/"
+  },
+  {
+    "titulo": "Cómo la tecnología impulsa la sostenibilidad",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b76fc999331f47acb1c9d5e4b8da4958e2f76f7d25c84e2515ebd9f867cbf504/"
+  },
+  {
+    "titulo": "Nano Tips para mejorar tu memoria y triplicar tu retención con Adrià Solà",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/53f6889cc79f299413aca9d64df0ced5558efa22ec285e9719caf888128ef87f/"
+  },
+  {
+    "titulo": "Introducción al examen PL-300: Microsoft Power BI Data Analyst",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/2cdda4038d31595b6b93c9875b1336ea94a46d5ee85ce686094e12c092551d0b/"
+  },
+  {
+    "titulo": "Mindfulness aplicada: Integra y dirige meditaciones en el ambiente de trabajo",
+    "emisor": "LinkedIn",
+    "fecha": "mar. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/9b79f1874c3a01c93fda7f75aadd134cedd8cad8d38ce24b5aae26f8eeea14b7/"
+  },
+  {
+    "titulo": "Enseñanza online o virtual",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/48a586de2742a24a354bb96b70c5daa7820e8a86b1cfdde7a954e30794f64a7c/"
+  },
+  {
+    "titulo": "Cómo superar retos: Técnicas y estrategias",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/7fa6ac598989b40945ebf76622a0782ef6793bfc7e3f391a995402d311f423e5/"
+  },
+  {
+    "titulo": "Prompt Engineering: Aprende a hablar con una inteligencia artificial generativa",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/41dca4d3325c2a26abb301e5de3d7e8e7fe20e96a3325c538f2efd2791a132d8/"
+  },
+  {
+    "titulo": "Inteligencia artificial generativa para profesionales creativos: Oportunidades, retos y ética",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3277516ac40d43f1a0e51be60cac431fc72718c841c88d8c0e202ffad97fd558/"
+  },
+  {
+    "titulo": "Fundamentos y consejos para gerentes principiantes",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3de355dd0f7150f301fbe22b2ee78af823dcf6bd639c13de7ce59093f7193213/"
+  },
+  {
+    "titulo": "Cómo liderar con estabilidad en tiempos de cambio y disrupción",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e86b145d2b38a26bd54c122b3b00c3a3b1b9260feff040e3bcd0725c7aa55caf/"
+  },
+  {
+    "titulo": "Transformación digital: aspectos clave de la inteligencia artificial para líderes",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/4b28bce33a22a537afa33d5121c176f0a63ab1a9b84962914f70910301779b02/"
+  },
+  {
+    "titulo": "Cómo crear una mentalidad digital",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/bcbf4c4f8a15da39b4da83b7a174bc623aa9801b1d39d711911cf07d06edd3f3/"
+  },
+  {
+    "titulo": "Dominar la automotivación en tiempos de crisis",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/8177b3de83912a74c3bfb34e0ad71c1bc1302c74b73de08bc658803f1e8d4823/"
+  },
+  {
+    "titulo": "Nano Tips para managers del siglo XXI con Francisco Rábano",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b66046ac96e4bd9aba825f34a7044dfbb8737a22dc5ce644dbbd9b6f7aa8f38f/"
+  },
+  {
+    "titulo": "Fundamentos de Transformación digital: Procesos de aprendizaje y desarrollo",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/9c1dd988779dd3f16d72f88bffb6c7ecb08876eb917f2440573181d54275df42/"
+  },
+  {
+    "titulo": "Cómo liderar a la generación Z",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b12f1de6a5de74e8ed750929ec96a5b96a1315842e513a8d5dc97f934778646d/"
+  },
+  {
+    "titulo": "Salud y bienestar empresarial: Qué, por qué y para qué",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3fc5242b97f866ff86650a0c3147e51e739edc5da2fc20424af0b778cb3ad9e3/"
+  },
+  {
+    "titulo": "Transformación digital en el sector de la salud y el bienestar",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/65397ac7b0304d7a283c71670a809cf9108a0deb310647945f04cb116e932e4f/"
+  },
+  {
+    "titulo": "Inteligencia colectiva como valor aplicado de la diversidad y la inclusión",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/6a51c19ecc4846d13ac4c6dbcd6a3bf3f65698ecc4b3ad23a7362fb6070f98c1/"
+  },
+  {
+    "titulo": "Fundamentos de big data",
+    "emisor": "LinkedIn",
+    "fecha": "feb. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/925c93e51abc2e1a315f17289804ce99a163eb7dc9ecb41fb903f58721a4a501/"
+  },
+  {
+    "titulo": "Diversidad e inclusión en empresas globales",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/4ded793a64dac3896f165da731a4b7217d6c3d5c872e1dec1cfd6dbf74a24655/"
+  },
+  {
+    "titulo": "Cómo convertir la formación presencial en aprendizaje digital",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/9274fbcd75986dbba1388d5d430980b03bdcdc5a1642a7a2ebd73ae03da6de03/"
+  },
+  {
+    "titulo": "Manel Rives contesta sobre enseñar online en tiempos difíciles",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/a499b40dc5ca6db658a0bc81f31099a370298dd4d9547378e897fae44b5f5e8c/"
+  },
+  {
+    "titulo": "Cómo tutorizar mediante aula virtual",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/73b5dba4cf186b8a3a407bd4ef5cd985525f2b5e92fd5465331dec35c5b06823/"
+  },
+  {
+    "titulo": "Cómo aumentar la resiliencia",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/8f49dfe5738909cad1b7c6424820b77741488833207ccd4a707386f281df0952/"
+  },
+  {
+    "titulo": "Fundamentos de inteligencia artificial: Máquinas pensantes",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/0cb37d6d5359228a2180d1cace9e1e897ff7c3d66f32e6cbf5eda34106850666/"
+  },
+  {
+    "titulo": "Transformación digital: Liderazgo",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/ade72ae64a604c9fe96c0a9fc174926ca2e058cd1338a200c6fc3ad4e8423193/"
+  },
+  {
+    "titulo": "Fundamentos de transformación digital: Tecnologías clave",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/81dd1ec1109310ecd908f5ee3ccc80e5733340a002db7ff352d0c43845561281/"
+  },
+  {
+    "titulo": "Liderazgo con inteligencia emocional",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/f506dd29f2140334dbd170e4335d63842e75262d740a175dfe65e095e527c8d3/"
+  },
+  {
+    "titulo": "Sostenibilidad digital: Cómo reducir tu huella digital",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/3081856eeda67e82691ad36471fb039666de3597d55e6e9cd7a3fc01e550e5e2/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Riesgos",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/cb18196e0ea89f99bba8358e22972131b4006eb2e249f2844be43ff0d7305a26/"
+  },
+  {
+    "titulo": "Microsoft Teams con Power Automate",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/0471ef3e8e48ceff8433a185cd58dcc6dbdf07ff16fd6f78f717e8e8e1f6a6b8/"
+  },
+  {
+    "titulo": "Fundamentos de Inteligencia artificial: Redes neuronales",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/80b1cf5dc91536f39640a7d9db1210bc3df8443bba191de439d27a687330b6af/"
+  },
+  {
+    "titulo": "Generative AI vs. Traditional AI",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/c0ba1883788103df27506a59eb727c8189e9330fe5322ba3180685a4d42b6c9d/"
+  },
+  {
+    "titulo": "Cómo gestionar equipos de trabajo",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/b8bdd63ec73aef551477cfc2cc94707b4b4322f56eb2f43e03e7e736039354d5/"
+  },
+  {
+    "titulo": "Inteligencia artificial con un café",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/1089129c65c5d3851222f261b183f2508363436f83dd5337364443ca94029863/"
+  },
+  {
+    "titulo": "Introducción a algoritmos para programación",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/26eadc4056de91c88d7860320df624912b14615c0dcd2bf9439a6646c17d7c12/"
+  },
+  {
+    "titulo": "Pensamiento computacional",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/e2e50bec7e17e69e94fff3107838ed4d0ed27bdc6d74500ff6644ca9a64077b5/"
+  },
+  {
+    "titulo": "Cómo liderar a la generación Y",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/60a8580f60d1341732d21600ba0ce327e2d6141a8a29b69a1f330ddabc0a8c28/"
+  },
+  {
+    "titulo": "Los secretos de la comunicación interpersonal",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/d2fb8b94581d23055b4d4fba73f82ba60681794c01c7cb31bc8a077e0e4b6529/"
+  },
+  {
+    "titulo": "Fundamentos de la inteligencia artificial generativa",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/5070434e98e7c28f9c1154ccc26e1ff05a44c24914f113278438b4094ffed0cd/"
+  },
+  {
+    "titulo": "El lenguaje de la influencia: Cómo persuadir y generar impacto",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/cc1c556a73f9aa8c3cbd3b2b89c1324cbd4b57e3ee9efdb8e2df3c638f741254/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Presupuestos",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/4ba5e600336091d00eb588754026c7a4715b1dc54e869179570c736c4a21c816/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/a69aea69137567bdff3fdc1518ef6516bcca524bd57f791c1fc8730f249c2ff6/"
+  },
+  {
+    "titulo": "Ruta de aprendizaje de habilidades profesionales blandas",
+    "emisor": "LinkedIn",
+    "fecha": "ene. de 2024",
+    "enlace": "https://www.linkedin.com/learning/certificates/c52277f26b5d8a49ef7670168634e440f14db608e47ebc75072d58c018d52349/"
+  },
+  {
+    "titulo": "Nano Tips para desarrollar superpoderes para tu día a día con Izanami Martínez",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/fe733843b6be9afde1cd085189e7787af72751bb7618d316dbfd435019f1ea07/"
+  },
+  {
+    "titulo": "Cómo atraer y retener talento en tiempos de crisis: Navegar la gran reorganización y la gran dimisión",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/215334e3b4125f77f2ae947c3adc7c957cac04193b060c2f65c84d0b63384f88/"
+  },
+  {
+    "titulo": "Nano Tips para remontar un mal día con Izanami Martínez",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/80482bf337d6c9c06c4138d8ec518da1b12f5978a5136ec49a14e6d1065ccf09/"
+  },
+  {
+    "titulo": "Nano Tips para hablar en público con Izanami Martínez",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4755c99f3cf896408b9bbb6bdba3334764ae4efdb53c833a95f18b45104c8232/"
+  },
+  {
+    "titulo": "Cómo desarrollar tu elevator pitch",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7ec58e2a62e4737b8b112ae1bb749e6ae30bed19510238e1dbc6581f517abd40/"
+  },
+  {
+    "titulo": "Cómo planificar copias de seguridad",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/c683824807910bcafb35f305650f337e3516a7d367367160bf6decc4f4e5668c/"
+  },
+  {
+    "titulo": "Obtención y preparación de datos con Power Query (PL-300)",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/64602bf03eba7d808777366d9eac6212cb4fee923c93be081c8f4ecfc4f16448/"
+  },
+  {
+    "titulo": "SCRUM con un café",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/3c45ddbe168088799338fc8bb39bfab60bd06c3261f869fe95799d4856d281aa/"
+  },
+  {
+    "titulo": "Cómo comunicar de forma efectiva en la empresa",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/d2ae265885efb6e28be75f63c3adffcc25803fda9e5605df2077c4652f0806f3/"
+  },
+  {
+    "titulo": "Excel: Evitar errores comunes (Microsoft 365)",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/b57ad79ffbbd40a6b689b3163cb4a402527ba3d5899f294c5ee1ca6fe8082ec0/"
+  },
+  {
+    "titulo": "Learning Microsoft 365 Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/66377ffdab19dfa32ddf210f8c716e3f44c9e1f72cb9b4289426e2e492008bd1/"
+  },
+  {
+    "titulo": "Liderazgo y recursos humanos: Estrategia de ubicación para una fuerza de trabajo híbrida",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/1b3db287c9683b6578f91fc2d01e58e4142e72229e8435525c4849575ebf7d35/"
+  },
+  {
+    "titulo": "Búsqueda de empleo con redes sociales",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/fda312f748664793d2895949bece03c0c6c5f9667ad0ea91310cade603c0a599/"
+  },
+  {
+    "titulo": "Aprende LinkedIn premium career",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4756d842592b4dac40497606d785a2b9c62b9245fc80c7c56dc7abe51854bea7/"
+  },
+  {
+    "titulo": "LinkedIn para networking",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/062eeb72c2617dd080f796d4b68f38680cae72fe2ff277d7301baf5478530af7/"
+  },
+  {
+    "titulo": "Cómo hackear tu mente y recuperar el control sobre el estrés",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/a7900c1bcae39accc75a5e771064b55c289203ac49a58189d4d4b8c8d4c8e232/"
+  },
+  {
+    "titulo": "Nano Tips para seguir adelante en etapas difíciles con Izanami Martínez",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/5e0359ffd18230619abcc2910b0a371d3eca6670bb56b2e5971dc11d7d31b28a/"
+  },
+  {
+    "titulo": "Cómo liderar equipos de alto potencial",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/72c91f27db7cdc2f5bbf5f9e8eef563aef516b92b84bf130c7f8df669fb9cb40/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Calendarios",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4114cb200d64e6e68376d04c93531574301b77bf32052d36fc29736c0059e487/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Ética",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7df419d825dabd2e4dcacb25d7e65eca4dd568845096ccfb17b4e3a2e76ef326/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Calidad",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/92fc613baf9ccc720c3c7712c7c4f6b93893798e2f6971e207a956b12b026a9e/"
+  },
+  {
+    "titulo": "Cómo superar los sesgos cognitivos",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/8a0b05ee46d27d27e9ff92aeb96fca13731014dabf6ea02466e49d654c41887f/"
+  },
+  {
+    "titulo": "Cómo usar preguntas para fomentar el pensamiento crítico y la curiosidad",
+    "emisor": "LinkedIn",
+    "fecha": "dic. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/bc820c04d1805b8562bad86a7aa841c8ae59c779a7d4226a902ee36317c0c5e7/"
+  },
+  {
+    "titulo": "Fundamentos profesionales de IA generativa, por Microsoft y LinkedIn",
+    "emisor": "Microsoft",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/a0b2ce9c1103fa807ba59792bd3fe9ebdd4d9572aa3a66548884174d82662410/"
+  },
+  {
+    "titulo": "Inteligencia emocional en la gestión empresarial",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/5d9e138bb885da456b656ab319459a85da47e6370fd1787b27dc281ecfcddec3/"
+  },
+  {
+    "titulo": "Cómo reinventarse y capacitarse en tiempos de crisis",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/216cf53e6614fa1e546f5269643191d1aae891d687c529f590e1eebe63b4f9b4/"
+  },
+  {
+    "titulo": "Cómo y por qué desarrollar una mentalidad de aprendizaje continuo",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4ba4af06acae3c334e56ce676be0abe33047e6486d13efcc2fd42f15c73abc94/"
+  },
+  {
+    "titulo": "Big data con un café",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/527b938bbcf8f53e5da1cadc78bde9beb11faf63f8794ed7375ca00d79d2e725/"
+  },
+  {
+    "titulo": "Cómo ejercer tu influencia",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/aa657811b1eb109a844483c09659ac94e3f2fe54e158662a5c4a8a50f0b09ed3/"
+  },
+  {
+    "titulo": "Cómo obtener valor con machine learning en tu empresa",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/184c22ea524d8bc7c3544339e05a4ca4f4158164cd00d901dc4a37b9bf1dd83c/"
+  },
+  {
+    "titulo": "Machine learning con un café",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/637750e42cd10cb8a66d922b361b359c2c84f9f1030e8bc6d20ccef75e081f79/"
+  },
+  {
+    "titulo": "Prepara tu entrevista de trabajo",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/237b838a7a5bf34bf098df5c5498327de7fd3fe786580eb043505d49d825f11e/"
+  },
+  {
+    "titulo": "Prepara tu entrevista de trabajo: Preguntas modernas más frecuentes",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/205b420239493cb491607edcd2f5fb5dec05b93e48096b3a3d8ab512869ca73b/"
+  },
+  {
+    "titulo": "Fundamentos del networking profesional",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/43eba6352ce072a4907690d738fcd7a90ad19e270cceff1ce90c2d1e186327d5/"
+  },
+  {
+    "titulo": "Prepara tu curriculum vitae",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/efafdecf25aaf3561a7b427c113c5e57f6595bbd1815624cbabd246674f2b0ca/"
+  },
+  {
+    "titulo": "Cómo escribir con eficacia",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/3cc2516b0b938556e7c6b2b52ee4a783e5aff38a463daaa5defa006ddaf64fdc/"
+  },
+  {
+    "titulo": "Introducción a las habilidades profesionales en análisis de datos",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/2d19021d7b9726056b161f8f09216a51bb4323f3dcaf646739ede182189b7b62/"
+  },
+  {
+    "titulo": "Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/07148bd591df3bc4b10c1c3571647749177950a93910ac7ae12ca1b70d83362a/"
+  },
+  {
+    "titulo": "Aprende análisis de datos: fundamentos",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4584692242142d2e50aa6a85595cdd99b8ac3e1fbc0a106f3110b022f01f384d/"
+  },
+  {
+    "titulo": "Cómo superar el bloqueo creativo",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4a7f05c5158b2f237708ffeffd82cd5a4637ffc7de4577a5393ac1c7a36be088/"
+  },
+  {
+    "titulo": "Aumenta tu productividad con Microsoft Bing Chat",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/c27fc80fca5c54577c93742dba8c34a9727b2d706974e762d999a18b3dd16507/"
+  },
+  {
+    "titulo": "Inteligencia artificial generativa: la evolución de la búsqueda inteligente en Internet",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/1c35cd05dbf4517031e36d147c8cd7fa177e4e4f72d52a63d8e8e9bffc66c91c/"
+  },
+  {
+    "titulo": "Ética en la era de la inteligencia artificial generativa",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7be70466c84a37e9a307a285b666410612360bf87817c57dc812c9919d5ef52f/"
+  },
+  {
+    "titulo": "Aprende data science: Conceptos básicos» de Doug Rose",
+    "emisor": "LinkedIn",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/62a92f42f720a55efa65a1a451136c86f79a2fde7f3a6e7f20583bba163b81cd/"
+  },
+  {
+    "titulo": "Fundamentos de Inteligencia artificial: Machine Learning",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/57aa3c7151e11f52d4bd4b9cb80c801ac1ca10ac60232ac594a066d8ea42bb29/"
+  },
+  {
+    "titulo": "Aprende data science: Cuenta historias con los datos",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/746c4adfc4dbd2c25228c8cd05fbd8b0535d6c2d0c8e2bea7dda847cefab066e/"
+  },
+  {
+    "titulo": "Qué es la IA generativa",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7df0b1f47682b3de6dd0cb361880241c608faea8430cd8b91f5118de03a00cd4/"
+  },
+  {
+    "titulo": "Inteligencia artificial más allá de la ingeniería",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/6455335ac9d559d76c770a26ba1a7a79814cc9aa3864c44afc8153fe49fabc08/"
+  },
+  {
+    "titulo": "Introduction to Artificial Intelligence",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/8777bed1883ec8c3fe7d49c361ceaca223395e4ead77509bca70203e10074f80/"
+  },
+  {
+    "titulo": "Descubre Microsoft 365 Copilot",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/e3849aff75c2ebdad3962688c149d1966be7a32a3f6241b87cd6edbba27efec8/"
+  },
+  {
+    "titulo": "Colaborar con Microsoft 365",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/617e00282186199a8c2237583b077594a07cf23f4a29b6b40c66f72e88f7bbfc/"
+  },
+  {
+    "titulo": "Optimiza tu trabajo con Microsoft 365",
+    "emisor": "linkedin learning",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/55796835539b2f7710647952756643d2b2c90a959bc1114222b5a2acc7441525/"
+  },
+  {
+    "titulo": "Etiqueta empresarial: Teléfono, email y mensajes",
+    "emisor": "Project Management Institute",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/347330788b5887103cf1a1ed79ff0e194f6ee97c95a31f96b015b276a8300cdc/"
+  },
+  {
+    "titulo": "Etiqueta empresarial: Teléfono, email y mensajes",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/6e4232783f73fc6863cd3a4e176c1605e5c2a5520a938ea3c318fc55b6daf599/"
+  },
+  {
+    "titulo": "Cómo desarrollar la inteligencia emocional",
+    "emisor": "Project Management Institute",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/6e428854f80cf191808179f60a904c344aac11ea1d9e5ac3a8b171c6cb64a688/"
+  },
+  {
+    "titulo": "Fundamentos de la comunicación",
+    "emisor": "Project Management Institute",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7e933bf954949affa72af30388cff1ef8fbddf228bcca7fc1c912a792efc83f7/"
+  },
+  {
+    "titulo": "Toma de notas para profesionales",
+    "emisor": "Project Management Institute",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/e0b70077e67717a04038abcce7945567202ac63efcacbefd9cf44e16c546b160/"
+  },
+  {
+    "titulo": "Enseñanza a distancia para educadores",
+    "emisor": "Google Digital Academy (Skillshop)",
+    "fecha": "oct. de 2023",
+    "enlace": "https://skillshop.exceedlms.com/student/award/Eicm8FhzZTAwdE6SsWuhQ6Yt"
+  },
+  {
+    "titulo": "ORIGEN Y EVOLUCION DE LA INTELIGENCIA ARTIFICIAL",
+    "emisor": "Secretaría de Innovación Pública",
+    "fecha": "oct. de 2023",
+    "enlace": "https://cursos.innovacion.gob.ar/mod/customcert/view.php?id=16532&downloadown=1"
+  },
+  {
+    "titulo": "Alfabetización Digital Básica",
+    "emisor": "Secretaría de Innovación Pública",
+    "fecha": "oct. de 2023",
+    "enlace": "https://cursos.innovacion.gob.ar/mod/customcert/view.php?id=16499&downloadown=1"
+  },
+  {
+    "titulo": "HERRAMIENTAS EN LINEA GOOGLE DRIVE Y DOCUMENTOS DE GOOGLE",
+    "emisor": "Secretaría de Innovación Pública",
+    "fecha": "oct. de 2023",
+    "enlace": "https://cursos.innovacion.gob.ar/mod/customcert/view.php?id=16860"
+  },
+  {
+    "titulo": "La escucha activa",
+    "emisor": "Nathanial Bibby",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/0cc4063fc98c2cd7f81571ea38859abce982e554b766217ff54e9d4ca977f1cb/"
+  },
+  {
+    "titulo": "Cómo generar confianza",
+    "emisor": "Project Management Institute",
+    "fecha": "oct. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/77cacef7360d646e1a9a4ae6d4599bb199a9d55ed76187845e7ff98a222c90a2/"
+  },
+  {
+    "titulo": "Fundamentos de transformación social competitiva: Estrategia en diez pasos",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/5f07a8e6553967b1bf930c66150c426f51b092df6ebad015eed1b82a6e56b444/"
+  },
+  {
+    "titulo": "Aprende LinkedIn",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/0c0fd2eed394c80df3c2d0a13f72fffd99b88a8a0cbd866b73792b528cd22153/"
+  },
+  {
+    "titulo": "Bases de datos con un café",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/f6c159a03eecbbde2e44a39481720435dc085650d39ec240d12bd9dd28e03904/"
+  },
+  {
+    "titulo": "LinkedIn para estudiantes",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/604bc8cf7ad19e194a5125bcbec55f089953d596e983596ff3e3f60c8eb62ac7/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión del tiempo",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/bca1ccf2747b14b9ac8abc960b9644ecd124d296c6533162e6c787e5d9639adf/"
+  },
+  {
+    "titulo": "Persuadir a los demás",
+    "emisor": "Project Management Institute",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/1530326aca68dd2659f465414099d0a989cc3d9955e063c39c6763224b53f5f6/"
+  },
+  {
+    "titulo": "Pensamiento crítico",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/af95e5c934e9d56d9c2184765a8168973ba6b7d78dee6aa817f0b914f523314b/"
+  },
+  {
+    "titulo": "Gestión de datos con Microsoft 365",
+    "emisor": "Microsoft Dynamics 365 Community",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/aa139f0447eb9ebc7db0663dce21f03949a4cfaac6fa5e4d762d147b6011b5ba/"
+  },
+  {
+    "titulo": "Gestión de proyectos con Microsoft 365",
+    "emisor": "Microsoft Dynamics 365 Community",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/d899d20f8991b2dca409178bcf32871eb51cf95e995482bf97160e137ab0fad8/"
+  },
+  {
+    "titulo": "Fundamentos de la gestión de proyectos: Equipos",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/6c679e71e89b5da8b54c2ec015036ce8478da65abadbdbb351083afd3a4c9ca3/"
+  },
+  {
+    "titulo": "Liderazgo y trabajo en equipo",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/aff658ade891f60c25cb8ba5d710cb889cce235ba5884b0bbe6344dbdd915e31/"
+  },
+  {
+    "titulo": "Introducción a las habilidades profesionales en el desarrollo de software",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/4eece07de34fb36f92c0bb30578ea937c3ada21f4f5e6ce92fdacc05f2a083dc/"
+  },
+  {
+    "titulo": "Fundamentos de la programación: Más allá de lo básico",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/9cc3bebfed330ad866330ee6c0ce4c7d17b8cdc007c777a0d28807d92a6830e8/"
+  },
+  {
+    "titulo": "Introducción a Microsoft 365",
+    "emisor": "Microsoft Dynamics 365 Community",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/7bc66799a5ed49e8dc91971aa2932594ed049f4be342db098d478d49b5e41342/"
+  },
+  {
+    "titulo": "Ruta de aprendizaje de alfabetización digital y productividad",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/30231ab475b2d334f0349f62b6843a125fb7c91140c7ce9ca30977976f77cd4b/"
+  },
+  {
+    "titulo": "Trabajando y colaborando online",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/41a4537642bc0d024bad248b30ed34a9c57bc0e5b817b6719db9a5788a4a4756/"
+  },
+  {
+    "titulo": "Trabajando con computadoras y dispositivos",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/72f59ff3a11313676deaf68f79ecc57d697d1e50aa156e64dcf92c8ab7ef11ce/"
+  },
+  {
+    "titulo": "Fundamentos esenciales de la programación",
+    "emisor": "LinkedIn",
+    "fecha": "sept. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/084c47680c1b9d9367e79f3a64ea762b45707ac02d24b009e23cc7254420280d/"
+  },
+  {
+    "titulo": "DESARROLLADOR LARAVEL",
+    "emisor": "Edutin Academy",
+    "fecha": "ago. de 2023",
+    "enlace": "https://edutin.com/certifcations/view/9515888"
+  },
+  {
+    "titulo": "ChatGPT TOTAL: De Cero a Experto. Midjourney, GPT 4 & Más!",
+    "emisor": "Udemy",
+    "fecha": "jul. de 2023",
+    "enlace": "https://www.udemy.com/certificate/UC-2e586f43-2f5f-4301-91cb-fa9f67d5f806/"
+  },
+  {
+    "titulo": "PHP 8 y MYSQL: El Curso Completo, Práctico y Desde Cero !",
+    "emisor": "Udemy",
+    "fecha": "jul. de 2023",
+    "enlace": "https://www.udemy.com/certificate/UC-4a38d6f7-44d6-4c0f-b5d3-840cbe715c61/"
+  },
+  {
+    "titulo": "Licenciado en enfermería",
+    "emisor": "Universidad Nacional de Lanús",
+    "fecha": "feb. de 2013",
+    "enlace": "https://registrograduados.siu.edu.ar/consulta.php?ah=st65182f0a3d6f52.42441234&ai=registro_dngu||3465"
+  }
+]

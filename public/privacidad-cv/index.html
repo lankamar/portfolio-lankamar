@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <title>Privacidad de solicitudes de CV — Marcelo Lancry Kamycki | LANKAMAR</title>
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem("theme");
+        var q = new URLSearchParams(location.search).get("theme");
+        if (q === "dark" || q === "light") {
+          t = q;
+          localStorage.setItem("theme", q);
+        } else if (t !== "dark" && t !== "light" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          t = "dark";
+        }
+        if (t === "dark" || t === "light") {
+          document.documentElement.setAttribute("data-theme", t);
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="brand">Marcelo <b>Lancry Kamycki</b></a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="/">Sobre mí</a></li>
+        <li><a href="/trayectoria">Trayectoria</a></li>
+        <li><a href="/proyectos">Proyectos</a></li>
+        <li><a href="/publicaciones">Publicaciones</a></li>
+        <li><a href="/docencia">Docencia</a></li>
+        <li><a href="/repositorios">Repositorios</a></li>
+        <li><a href="/contacto">Contacto</a></li>
+        <li><a href="/cv" class="active">CV</a></li>
+      </ul>
+      <a href="#cambiar-tema" class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema claro u oscuro" title="Cambiar tema">
+        <i class="fa-solid fa-moon" aria-hidden="true"></i>
+        <i class="fa-solid fa-sun" aria-hidden="true"></i>
+      </a>
+      <a href="#menu" class="nav-burger" id="nav-burger" aria-label="Abrir menú" aria-expanded="false">
+        <i class="fa-solid fa-bars" id="nav-burger-icon" aria-hidden="true"></i>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <div class="page">
+      <div class="container">
+        <div class="cv-step-badge">Aviso de privacidad · Versión 2026-11-01</div>
+        <h1>Privacidad de solicitudes de CV</h1>
+        <p class="affil">
+          Información clara sobre el tratamiento de datos personales en el flujo de solicitud y descarga verificada del currículum.
+        </p>
+
+        <div class="cv-meta-grid" aria-label="Resumen del aviso de privacidad">
+          <div class="cv-meta-item">
+            <span class="label">Responsable</span>
+            <span class="value">Marcelo Lancry — LANKAMAR</span>
+          </div>
+          <div class="cv-meta-item">
+            <span class="label">Contacto</span>
+            <span class="value"><a href="mailto:lankamar@gmail.com">lankamar@gmail.com</a></span>
+          </div>
+          <div class="cv-meta-item">
+            <span class="label">Versión vigente</span>
+            <span class="value">2026-11-01</span>
+          </div>
+          <div class="cv-meta-item">
+            <span class="label">Plazo de conservación</span>
+            <span class="value">30 días (eliminación por tarea de retención)</span>
+          </div>
+        </div>
+
+        <div class="card cv-flow-card">
+          <div class="cv-prose">
+            <h2>1. Datos registrados y finalidad</h2>
+            <p>
+              Con tu consentimiento se registran correo, versión solicitada, consentimiento, fechas y resultados de envío y descarga. La finalidad exclusiva es gestionar tu solicitud y permitir la entrega verificada del documento, sin publicidad ni suscripciones.
+            </p>
+
+            <h2>2. Minimización y prevención de abusos</h2>
+            <p>
+              Para resguardar la disponibilidad del servicio y aplicar límites de uso razonables, se guardan hashes criptográficos de IP y agente del navegador para limitar abusos. El token temporal de descarga se almacena únicamente como resumen criptográfico y nunca en texto plano.
+            </p>
+
+            <h2>3. Conservación, vencimiento y descarga única</h2>
+            <p>
+              Los registros se conservan durante 30 días y se eliminan mediante la tarea de retención. Google (Gmail) procesa el correo para entregar el enlace. El enlace vence a los 30 minutos y permite una descarga.
+            </p>
+
+            <h2>4. Derechos de la persona titular de los datos</h2>
+            <p>
+              Podés solicitar acceso, rectificación o eliminación escribiendo a <a href="mailto:lankamar@gmail.com">lankamar@gmail.com</a>. El borrado no revoca documentos ya descargados. Las copias públicas históricas pueden seguir disponibles.
+            </p>
+          </div>
+
+          <div class="actions" style="margin-top: 1.5rem;">
+            <a id="volver-formulario" class="btn" href="/solicitar-cv/">Volver al formulario</a>
+            <a class="btn btn-outline" href="/cv">Ver versiones de CV</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>
+        © 2026 Marcelo Omar Lancry Kamycki · <a href="/cv">CV</a> · <a href="https://orcid.org/0009-0001-6012-3796" target="_blank" rel="noopener noreferrer">ORCID</a>
+      </p>
+      <p>Última actualización: octubre 2026</p>
+    </div>
+  </footer>
+
+  <script>
+    (() => {
+      const themeToggle = document.getElementById('theme-toggle');
+      const navBurger = document.getElementById('nav-burger');
+      const navBurgerIcon = document.getElementById('nav-burger-icon');
+      const navLinks = document.getElementById('nav-links');
+
+      if (themeToggle) {
+        themeToggle.addEventListener('click', event => {
+          event.preventDefault();
+          const current = document.documentElement.getAttribute('data-theme') || 'light';
+          const next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      }
+
+      if (navBurger && navLinks) {
+        navBurger.addEventListener('click', event => {
+          event.preventDefault();
+          const isOpen = navLinks.classList.toggle('open');
+          navBurger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+          if (navBurgerIcon) {
+            navBurgerIcon.className = isOpen ? 'fa-solid fa-xmark' : 'fa-solid fa-bars';
+          }
+        });
+      }
+
+      const params = new URLSearchParams(location.search);
+      let version = params.get('version');
+      if (['tech', 'salud', 'academico'].includes(version)) {
+        try { sessionStorage.setItem('cv_version', version); } catch (e) {}
+      } else {
+        try {
+          const saved = sessionStorage.getItem('cv_version');
+          if (['tech', 'salud', 'academico'].includes(saved)) {
+            version = saved;
+          }
+        } catch (e) {}
+      }
+
+      if (['tech', 'salud', 'academico'].includes(version)) {
+        const volver = document.getElementById('volver-formulario');
+        if (volver) {
+          volver.href = '/solicitar-cv/?version=' + encodeURIComponent(version);
+        }
+      }
+    })();
+  </script>
+</body>
+</html>

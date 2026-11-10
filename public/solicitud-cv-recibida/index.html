@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <title>Solicitud aceptada — Marcelo Lancry Kamycki | LANKAMAR</title>
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem("theme");
+        var q = new URLSearchParams(location.search).get("theme");
+        if (q === "dark" || q === "light") {
+          t = q;
+          localStorage.setItem("theme", q);
+        } else if (t !== "dark" && t !== "light" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          t = "dark";
+        }
+        if (t === "dark" || t === "light") {
+          document.documentElement.setAttribute("data-theme", t);
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="brand">Marcelo <b>Lancry Kamycki</b></a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="/">Sobre mí</a></li>
+        <li><a href="/trayectoria">Trayectoria</a></li>
+        <li><a href="/proyectos">Proyectos</a></li>
+        <li><a href="/publicaciones">Publicaciones</a></li>
+        <li><a href="/docencia">Docencia</a></li>
+        <li><a href="/repositorios">Repositorios</a></li>
+        <li><a href="/contacto">Contacto</a></li>
+        <li><a href="/cv" class="active">CV</a></li>
+      </ul>
+      <a href="#cambiar-tema" class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema claro u oscuro" title="Cambiar tema">
+        <i class="fa-solid fa-moon" aria-hidden="true"></i>
+        <i class="fa-solid fa-sun" aria-hidden="true"></i>
+      </a>
+      <a href="#menu" class="nav-burger" id="nav-burger" aria-label="Abrir menú" aria-expanded="false">
+        <i class="fa-solid fa-bars" id="nav-burger-icon" aria-hidden="true"></i>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <div class="page">
+      <div class="container">
+        <div class="cv-step-badge">Paso 2 de 3 · Verificación pendiente</div>
+        <h1>Solicitud aceptada</h1>
+        <p class="affil">
+          Tu pedido fue registrado. Revisá tu correo electrónico y la carpeta de spam para abrir el enlace de confirmación.
+        </p>
+
+        <div class="card cv-flow-card" style="margin-bottom: 1.5rem;">
+          <div class="cv-selected-banner" id="version-banner" hidden>
+            <div>
+              <span class="eyebrow">Versión solicitada</span>
+              <strong id="version-banner-title"></strong>
+              <span id="version-banner-desc"></span>
+            </div>
+          </div>
+
+          <h2>Revisá tu casilla de correo</h2>
+          <p>
+            Revisá tu correo y la carpeta de spam. El enlace vence a los 30 minutos y permite una descarga. La aceptación de la solicitud no confirma la recepción del correo.
+          </p>
+
+          <div class="cv-notice-box">
+            <p>
+              <strong>Aviso importante sobre la entrega:</strong> Esta pantalla confirma que el sistema procesó tu solicitud, pero <strong>no acredita la entrega efectiva del mensaje</strong> en tu bandeja de entrada, ya que depende del servidor de correo de destino y de sus filtros antispam.
+            </p>
+          </div>
+
+          <div class="cv-steps-grid" aria-label="Condiciones del enlace de descarga">
+            <div class="cv-step-item">
+              <span class="cv-step-num">Bandeja y Spam</span>
+              <strong>Buscá el mensaje</strong>
+              <span>Si no aparece en la bandeja principal pasados unos minutos, revisá Correo no deseado o Promociones.</span>
+            </div>
+            <div class="cv-step-item">
+              <span class="cv-step-num">Validez temporal</span>
+              <strong>Vence en 30 minutos</strong>
+              <span>Pasado ese plazo desde la solicitud, el enlace caduca automáticamente por seguridad.</span>
+            </div>
+            <div class="cv-step-item">
+              <span class="cv-step-num">Uso único</span>
+              <strong>Una sola descarga</strong>
+              <span>Al abrir el enlace y confirmar la acción, el PDF se descargará una vez y el token quedará invalidado.</span>
+            </div>
+          </div>
+
+          <h3>¿Necesitás corregir tu dirección o volver a intentar?</h3>
+          <p class="muted" style="font-size: 0.92rem; margin-top: 0.25rem;">
+            Si ingresaste un correo con errores o el enlace venció, podés regresar al formulario conservando la versión elegida.
+          </p>
+
+          <div class="actions">
+            <a id="volver-formulario" class="btn" href="/solicitar-cv/">Volver al formulario</a>
+            <a class="btn btn-outline" href="/cv">Ver versiones de CV</a>
+            <a class="btn btn-outline" id="link-privacidad" href="/privacidad-cv/">Aviso de privacidad</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>
+        © 2026 Marcelo Omar Lancry Kamycki · <a href="/cv">CV</a> · <a href="https://orcid.org/0009-0001-6012-3796" target="_blank" rel="noopener noreferrer">ORCID</a>
+      </p>
+      <p>Última actualización: octubre 2026</p>
+    </div>
+  </footer>
+
+  <script>
+    (() => {
+      const themeToggle = document.getElementById('theme-toggle');
+      const navBurger = document.getElementById('nav-burger');
+      const navBurgerIcon = document.getElementById('nav-burger-icon');
+      const navLinks = document.getElementById('nav-links');
+
+      if (themeToggle) {
+        themeToggle.addEventListener('click', event => {
+          event.preventDefault();
+          const current = document.documentElement.getAttribute('data-theme') || 'light';
+          const next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      }
+
+      if (navBurger && navLinks) {
+        navBurger.addEventListener('click', event => {
+          event.preventDefault();
+          const isOpen = navLinks.classList.toggle('open');
+          navBurger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+          if (navBurgerIcon) {
+            navBurgerIcon.className = isOpen ? 'fa-solid fa-xmark' : 'fa-solid fa-bars';
+          }
+        });
+      }
+
+      const metaDescriptions = {
+        tech: {
+          title: 'CV — Tecnología e IA aplicada',
+          desc: 'Orientado a roles de desarrollo de software, IA aplicada o soporte técnico.'
+        },
+        salud: {
+          title: 'CV — Salud y gestión',
+          desc: 'Orientado a jefaturas, coordinación y gestión hospitalaria.'
+        },
+        academico: {
+          title: 'CV — Académico',
+          desc: 'Orientado a docencia universitaria, investigación y formación.'
+        }
+      };
+
+      const params = new URLSearchParams(location.search);
+      let version = params.get('version');
+      if (!['tech', 'salud', 'academico'].includes(version)) {
+        try {
+          const saved = sessionStorage.getItem('cv_version');
+          if (['tech', 'salud', 'academico'].includes(saved)) {
+            version = saved;
+          }
+        } catch (e) {}
+      }
+
+      if (['tech', 'salud', 'academico'].includes(version)) {
+        const info = metaDescriptions[version];
+        const banner = document.getElementById('version-banner');
+        const bannerTitle = document.getElementById('version-banner-title');
+        const bannerDesc = document.getElementById('version-banner-desc');
+        const volver = document.getElementById('volver-formulario');
+        const priv = document.getElementById('link-privacidad');
+
+        if (banner && bannerTitle && bannerDesc && info) {
+          bannerTitle.textContent = info.title;
+          bannerDesc.textContent = info.desc;
+          banner.hidden = false;
+        }
+        if (volver) {
+          volver.href = '/solicitar-cv/?version=' + encodeURIComponent(version);
+        }
+        if (priv) {
+          priv.href = '/privacidad-cv/?version=' + encodeURIComponent(version);
+        }
+      }
+    })();
+  </script>
+</body>
+</html>

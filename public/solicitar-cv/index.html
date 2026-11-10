@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="cv-api-base" content="https://teal-gnat-607186.hostingersite.com/cv-api">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <title>Solicitar CV — Marcelo Lancry Kamycki | LANKAMAR</title>
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem("theme");
+        var q = new URLSearchParams(location.search).get("theme");
+        if (q === "dark" || q === "light") {
+          t = q;
+          localStorage.setItem("theme", q);
+        } else if (t !== "dark" && t !== "light" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          t = "dark";
+        }
+        if (t === "dark" || t === "light") {
+          document.documentElement.setAttribute("data-theme", t);
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="nav-inner">
+      <a href="/" class="brand">Marcelo <b>Lancry Kamycki</b></a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="/">Sobre mí</a></li>
+        <li><a href="/trayectoria">Trayectoria</a></li>
+        <li><a href="/proyectos">Proyectos</a></li>
+        <li><a href="/publicaciones">Publicaciones</a></li>
+        <li><a href="/docencia">Docencia</a></li>
+        <li><a href="/repositorios">Repositorios</a></li>
+        <li><a href="/contacto">Contacto</a></li>
+        <li><a href="/cv" class="active">CV</a></li>
+      </ul>
+      <a href="#cambiar-tema" class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema claro u oscuro" title="Cambiar tema">
+        <i class="fa-solid fa-moon" aria-hidden="true"></i>
+        <i class="fa-solid fa-sun" aria-hidden="true"></i>
+      </a>
+      <a href="#menu" class="nav-burger" id="nav-burger" aria-label="Abrir menú" aria-expanded="false">
+        <i class="fa-solid fa-bars" id="nav-burger-icon" aria-hidden="true"></i>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <div class="page">
+      <div class="container">
+        <div class="cv-step-badge">Paso 1 de 3 · Solicitud verificada</div>
+        <h1>Solicitar currículum</h1>
+        <p class="affil">
+          Recibí por correo un enlace personal de un solo uso, válido durante 30 minutos.
+        </p>
+
+        <div class="card cv-form-card">
+          <div class="cv-selected-banner" id="version-banner">
+            <div>
+              <span class="eyebrow">Versión seleccionada</span>
+              <strong id="version-banner-title">Seleccioná una versión del currículum</strong>
+              <span id="version-banner-desc">Podés elegir entre Tecnología e IA aplicada, Salud y gestión o Académico.</span>
+            </div>
+          </div>
+
+          <form id="solicitud-cv" class="cv-form">
+            <label for="email">Correo electrónico *</label>
+            <input id="email" name="email" type="email" autocomplete="email" maxlength="254" placeholder="nombre@organizacion.com" required aria-describedby="uso">
+
+            <label for="version">Versión del currículum *</label>
+            <select id="version" name="version" required>
+              <option value="">Seleccioná una versión</option>
+              <option value="tech">Tecnología e IA aplicada</option>
+              <option value="salud">Salud y gestión</option>
+              <option value="academico">Académico</option>
+            </select>
+
+            <input type="hidden" name="privacy_version" value="2026-11-01">
+            <div class="trap" aria-hidden="true">
+              <label for="website">Sitio web</label>
+              <input id="website" name="website" tabindex="-1" autocomplete="off">
+            </div>
+
+            <label class="cv-check-label" for="consentimiento">
+              <input id="consentimiento" name="consentimiento" type="checkbox" required>
+              <span>Acepto el uso de mis datos para gestionar esta solicitud según el <a id="link-privacidad" href="/privacidad-cv/">aviso de privacidad</a>. *</span>
+            </label>
+
+            <p id="uso" class="cv-form-help">
+              No se utilizan los datos para publicidad ni suscripciones. El enlace vence a los 30 minutos y permite una única descarga en PDF.
+            </p>
+
+            <button type="submit" class="btn" disabled>Solicitar enlace por correo</button>
+            <p id="estado" class="cv-status" role="status" aria-live="polite">Servicio pendiente de habilitación.</p>
+            <noscript>
+              <p class="cv-status" data-state="error">Este formulario necesita JavaScript. Podés escribir a lankamar@gmail.com.</p>
+            </noscript>
+          </form>
+        </div>
+
+        <div class="card cv-flow-card">
+          <h3>¿Cómo continúa el proceso?</h3>
+          <ul class="cv-info-list">
+            <li><strong>Verificación de casilla:</strong> Te enviaremos un mensaje con el enlace correspondiente a la versión elegida. Si no lo ves en tu bandeja principal, revisá la carpeta de spam o promociones.</li>
+            <li><strong>Enlace temporal y de uso único:</strong> El enlace tiene una validez de <strong>30 minutos</strong> y permite <strong>una sola descarga</strong>.</li>
+            <li><strong>Confirmación de descarga:</strong> Al abrir el enlace verás una pantalla de confirmación de LANKAMAR donde podrás iniciar la descarga del archivo PDF.</li>
+          </ul>
+          <div class="actions">
+            <a class="btn btn-outline" href="/cv">← Volver a currículums</a>
+            <a class="btn btn-outline" id="link-privacidad-sec" href="/privacidad-cv/">Aviso de privacidad</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>
+        © 2026 Marcelo Omar Lancry Kamycki · <a href="/cv">CV</a> · <a href="https://orcid.org/0009-0001-6012-3796" target="_blank" rel="noopener noreferrer">ORCID</a>
+      </p>
+      <p>Última actualización: octubre 2026</p>
+    </div>
+  </footer>
+
+  <script>
+    (() => {
+      const themeToggle = document.getElementById('theme-toggle');
+      const navBurger = document.getElementById('nav-burger');
+      const navBurgerIcon = document.getElementById('nav-burger-icon');
+      const navLinks = document.getElementById('nav-links');
+
+      if (themeToggle) {
+        themeToggle.addEventListener('click', event => {
+          event.preventDefault();
+          const current = document.documentElement.getAttribute('data-theme') || 'light';
+          const next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      }
+
+      if (navBurger && navLinks) {
+        navBurger.addEventListener('click', event => {
+          event.preventDefault();
+          const isOpen = navLinks.classList.toggle('open');
+          navBurger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+          if (navBurgerIcon) {
+            navBurgerIcon.className = isOpen ? 'fa-solid fa-xmark' : 'fa-solid fa-bars';
+          }
+        });
+      }
+
+      const metaDescriptions = {
+        tech: {
+          title: 'CV — Tecnología e IA aplicada',
+          desc: 'Orientado a roles de desarrollo de software, IA aplicada o soporte técnico.'
+        },
+        salud: {
+          title: 'CV — Salud y gestión',
+          desc: 'Orientado a jefaturas, coordinación y gestión hospitalaria.'
+        },
+        academico: {
+          title: 'CV — Académico',
+          desc: 'Orientado a docencia universitaria, investigación y formación.'
+        }
+      };
+
+      const form = document.querySelector('form');
+      const button = form.querySelector('button');
+      const status = document.getElementById('estado');
+      const bannerTitle = document.getElementById('version-banner-title');
+      const bannerDesc = document.getElementById('version-banner-desc');
+      const linkPrivacidad = document.getElementById('link-privacidad');
+      const linkPrivacidadSec = document.getElementById('link-privacidad-sec');
+      const base = document.querySelector('meta[name="cv-api-base"]').content.replace(/\/$/, '');
+
+      function syncVersionUI(selected) {
+        const info = metaDescriptions[selected];
+        if (info) {
+          bannerTitle.textContent = info.title;
+          bannerDesc.textContent = info.desc;
+          const privHref = '/privacidad-cv/?version=' + encodeURIComponent(selected);
+          if (linkPrivacidad) linkPrivacidad.href = privHref;
+          if (linkPrivacidadSec) linkPrivacidadSec.href = privHref;
+          try { sessionStorage.setItem('cv_version', selected); } catch (e) {}
+        } else {
+          bannerTitle.textContent = 'Seleccioná una versión del currículum';
+          bannerDesc.textContent = 'Podés elegir entre Tecnología e IA aplicada, Salud y gestión o Académico.';
+          if (linkPrivacidad) linkPrivacidad.href = '/privacidad-cv/';
+          if (linkPrivacidadSec) linkPrivacidadSec.href = '/privacidad-cv/';
+        }
+      }
+
+      const params = new URLSearchParams(location.search);
+      let initialVersion = params.get('version');
+      if (!['tech', 'salud', 'academico'].includes(initialVersion)) {
+        try {
+          const saved = sessionStorage.getItem('cv_version');
+          if (['tech', 'salud', 'academico'].includes(saved)) {
+            initialVersion = saved;
+          }
+        } catch (e) {}
+      }
+
+      if (['tech', 'salud', 'academico'].includes(initialVersion)) {
+        form.elements.version.value = initialVersion;
+      }
+      syncVersionUI(form.elements.version.value);
+
+      form.elements.version.addEventListener('change', () => {
+        const val = form.elements.version.value;
+        syncVersionUI(val);
+        try {
+          const url = new URL(location.href);
+          if (val) {
+            url.searchParams.set('version', val);
+          } else {
+            url.searchParams.delete('version');
+          }
+          history.replaceState(null, '', url.pathname + url.search);
+        } catch (e) {}
+      });
+
+      if (!base) return;
+      button.disabled = false;
+      status.textContent = '';
+      status.dataset.state = 'idle';
+
+      form.addEventListener('submit', async event => {
+        event.preventDefault();
+        if (!form.reportValidity()) return;
+        button.disabled = true;
+        status.dataset.state = 'loading';
+        status.textContent = 'Enviando solicitud…';
+        try {
+          sessionStorage.setItem('cv_version', form.elements.version.value);
+        } catch (e) {}
+        try {
+          const response = await fetch(base + '/request', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              email: form.elements.email.value,
+              version: form.elements.version.value,
+              consent: form.elements.consentimiento.checked,
+              privacy_version: form.elements.privacy_version.value,
+              website: form.elements.website.value
+            })
+          });
+          if (response.status === 202) {
+            location.assign('/solicitud-cv-recibida/');
+            return;
+          }
+          status.dataset.state = 'error';
+          status.textContent = response.status === 429
+            ? 'Alcanzaste el límite de solicitudes. Intentá más tarde.'
+            : response.status === 422
+              ? 'Revisá el correo, la versión y el consentimiento.'
+              : 'No pudimos enviar el correo. Intentá más tarde.';
+        } catch {
+          status.dataset.state = 'error';
+          status.textContent = 'No pudimos conectar con el servicio. Intentá más tarde.';
+        } finally {
+          button.disabled = false;
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
