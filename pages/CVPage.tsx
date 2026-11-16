@@ -1,4 +1,5 @@
 import React from "react";
+import { site } from "../data";
 
 const variants = [
   {
@@ -71,12 +72,11 @@ export default function CVPage() {
 
       <h2>Verificación</h2>
       <p>
-        Las credenciales de formación continua se pueden verificar en páginas
-        públicas:{" "}
+        Las {site.credentials} credenciales registradas se consultan en el índice público de{" "}
         <a href="/credenciales/">credenciales</a>.
       </p>
       <p className="muted" style={{ fontSize: "0.9rem" }}>
-        Última actualización: octubre 2026.
+        Última actualización del catálogo: noviembre 2026.
       </p>
     </div>
   );
