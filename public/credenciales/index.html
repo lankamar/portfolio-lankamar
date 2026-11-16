@@ -77,7 +77,7 @@ display:inline-flex;align-items:center;gap:7px;border:1px solid rgba(248,245,240
 <p class="estado" id="estado" role="status" aria-live="polite">Cargando certificaciones…</p>
 <ol class="catalogo" id="catalogo" aria-label="Certificaciones"></ol>
 <p class="vacio" id="vacio" hidden>No hay certificaciones que coincidan con la búsqueda.</p>
-<p class="note">Algunos emisores, como LinkedIn Learning, pueden requerir iniciar sesión para mostrar el certificado. El enlace abre el registro individual emitido por la entidad; esta página no aloja copias de esos documentos. Los datos se cargan desde <span style="font-family:var(--mono);font-size:12px">certificaciones.json</span>.</p>
+<p class="note">Algunos emisores, como LinkedIn Learning, pueden requerir iniciar sesión. Los enlaces externos conducen a documentos o registros proporcionados por terceros; las fichas locales identifican documentos conservados por LANKAMAR y no reemplazan la verificación oficial del emisor. Esta página no aloja PDF privados. Los datos se cargan desde <span style="font-family:var(--mono);font-size:12px">certificaciones.json</span>.</p>
 <div class="links"><a href="/">← Sitio principal</a><a href="/cv">Ver CV</a></div></main><footer><div class="wrap">Marcelo Omar Lancry Kamycki · <a href="/" style="color:inherit">lankamar.github.io</a> · Las fichas locales reproducen los datos del documento original emitido por la institución.</div></footer><a class="home-fab" href="/" aria-label="Volver al inicio">⌂ Inicio</a><script>
 (function () {
   var catalogo = document.getElementById("catalogo");
@@ -130,8 +130,8 @@ display:inline-flex;align-items:center;gap:7px;border:1px solid rgba(248,245,240
       enlace.href = href;
       enlace.target = "_blank";
       enlace.rel = "noopener noreferrer";
-      enlace.textContent = "Ver certificado";
-      enlace.setAttribute("aria-label", "Ver certificado: " + registro.titulo);
+      enlace.textContent = href.indexOf("https://lankamar.github.io/credenciales/") === 0 ? "Ver ficha" : "Ver certificado";
+      enlace.setAttribute("aria-label", enlace.textContent + ": " + registro.titulo);
       li.appendChild(enlace);
     } else {
       var sin = document.createElement("span");
@@ -142,8 +142,10 @@ display:inline-flex;align-items:center;gap:7px;border:1px solid rgba(248,245,240
     return li;
   }
 
-  function contarConEnlace() {
-    return registros.filter(function (r) { return enlaceIndividual(r.enlace); }).length;
+  function recuentoEnlaces() {
+    var links = registros.map(function (r) { return enlaceIndividual(r.enlace); }).filter(Boolean);
+    var fichas = links.filter(function (url) { return url.indexOf("https://lankamar.github.io/credenciales/") === 0; }).length;
+    return { externos: links.length - fichas, fichas: fichas, sin: registros.length - links.length };
   }
 
   function pintar(filtro) {
@@ -165,7 +167,8 @@ display:inline-flex;align-items:center;gap:7px;border:1px solid rgba(248,245,240
     if (consulta) {
       estado.textContent = visibles.length + " de " + registros.length + " registros coinciden con la búsqueda.";
     } else {
-      estado.textContent = registros.length + " registros · " + contarConEnlace() + " con enlace individual.";
+      var resumen = recuentoEnlaces();
+      estado.textContent = registros.length + " registros · " + resumen.externos + " enlaces externos · " + resumen.fichas + " fichas locales · " + resumen.sin + " sin enlace.";
     }
   }
 
