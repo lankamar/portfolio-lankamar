@@ -29,11 +29,6 @@ export type NewsItem = { date: string; text: string; href?: string };
 export const news: NewsItem[] = [
   {
     date: "2026",
-    text: "Pre-print sobre alineamiento pragmático de modelos de lenguaje, disponible en ORCID.",
-    href: site.links.orcid,
-  },
-  {
-    date: "2026",
     text: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza (CITEP-UBA): certificado oficial emitido, 120 horas, Registro N.º 43, Libro 1.",
     href: "/credenciales/diplomatura-ia-citep-2026/",
   },
@@ -66,15 +61,6 @@ export type Publication = {
 };
 
 export const publications: Publication[] = [
-  {
-    title:
-      "Pragmatic Alignment of Large Language Models through Intensity-Weighted Markers",
-    type: "Pre-print",
-    date: "marzo 2026",
-    detail:
-      "Zenodo · indexación pendiente · ORCID 0009-0008-8196-6291",
-    href: site.links.orcid,
-  },
   {
     title: "Simulador ECG: Codiseño Agéntico para la Educación en Salud",
     type: "Documento de investigación",
