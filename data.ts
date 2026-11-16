@@ -8,7 +8,7 @@ export const site = {
   orcid: "0009-0008-8196-6291",
   started: 1990,
   years: 35,
-  credentials: 311,
+  credentials: 317,
   license: "73.519",
   links: {
     email: "mailto:lankamar@gmail.com",
@@ -34,7 +34,8 @@ export const news: NewsItem[] = [
   },
   {
     date: "2026",
-    text: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza (CITEP-UBA) concluida y aprobada; esperando la certificación.",
+    text: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza (CITEP-UBA): certificado oficial emitido, 120 horas, Registro N.º 43, Libro 1.",
+    href: "/credenciales/diplomatura-ia-citep-2026/",
   },
   {
     date: "2026",
@@ -269,10 +270,12 @@ export const education: Study[] = [
   {
     title: "Diplomatura en Inteligencia Artificial y Prácticas de Enseñanza",
     place: "CITEP, UBA",
-    status: "concluida · esperando certificación",
+    status: "acreditada",
     year: "2026",
     detail:
-      "Concluida y aprobada. Solo resta la emisión del certificado por trámite administrativo de la UBA.",
+      "Certificado emitido el 5 de octubre de 2026 · 120 horas · Reg. N.º 43, Libro 1 · Expediente EX-2025-06104597- -UBA-DME#REC.",
+    credential: "/credenciales/diplomatura-ia-citep-2026/",
+    credentialLabel: "Ver ficha de verificación",
   },
   {
     title:
@@ -353,7 +356,7 @@ export const teaching = [
   },
   {
     title: "Formación continua",
-    place: "311 credenciales",
+    place: "317 credenciales",
     text: "Más de 300 certificaciones en salud, gestión y tecnología. La Especialización en Diseño de la Enseñanza con Tecnologías (EDET, CITEP-UBA) está concluida y aprobada; solo resta la emisión del certificado por trámite administrativo.",
   },
 ];
