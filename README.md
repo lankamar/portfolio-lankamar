@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# LANKAMAR — Portfolio profesional
 
-# Run and deploy your AI Studio app
+Sitio profesional de Marcelo Omar Lancry Kamycki. Presenta trayectoria en Enfermería, gestión hospitalaria, docencia, tecnología educativa e inteligencia artificial aplicada, junto con proyectos, publicaciones y un registro documental de formación continua.
 
-This contains everything you need to run your app locally.
+## Arquitectura del sitio
 
-View your app in AI Studio: https://ai.studio/apps/drive/1rw-uHz19BySAgm7xJ49kdEC6R0XOH4r_
+- **Interfaz:** React, TypeScript y Vite.
+- **Datos de trayectoria y contadores:** `data.ts`.
+- **Catálogo de formación continua:** `public/certificaciones.json`; su búsqueda pública se encuentra en `/credenciales/`.
+- **Fichas documentales locales:** `public/credenciales/<identificador>/`. Estas fichas son descripciones del archivo documental y no sustituyen la validación de una institución emisora.
+- **Currículums:** tres perfiles (tecnología/IA, salud/gestión y académico) disponibles mediante el circuito de solicitud y verificación por correo. Los PDF privados y el servicio de descarga se administran en infraestructura separada y no se incorporan al repositorio público.
+- **Construcción:** `npm run build`, con generación de rutas estáticas y control de archivos públicos mediante `scripts/check-public.py`.
+- **Publicación:** integración del repositorio con el despliegue web; el servicio de solicitudes de CV utiliza un backend independiente.
 
-## Run Locally
+## Estructura principal
 
-**Prerequisites:**  Node.js
+- `pages/`: vistas principales de la aplicación.
+- `components/`: componentes reutilizables.
+- `public/`: recursos estáticos y catálogo de credenciales.
+- `seo/`: metadatos de las rutas públicas.
+- `scripts/`: construcción, validación y preparación del despliegue.
+- `CV-001_ESTADO.md`: bitácora del circuito de solicitud de CV.
 
+## Desarrollo local
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Requisitos: Node.js compatible con las versiones fijadas en `package.json`.
+
+```bash
+npm ci
+npm run dev
+```
+
+Para comprobar el artefacto público:
+
+```bash
+npm run build
+```
+
+No se deben publicar secretos, documentos personales originales, bases de datos ni archivos privados del servicio de CV.
+
+## Procedencia técnica
+
+El repositorio se creó originalmente mediante una plantilla de Google AI Studio, como indica la referencia histórica «Generated from» que GitHub presenta en su interfaz. La plantilla identifica el punto de partida del repositorio; no describe la autoría de los contenidos académicos, los desarrollos posteriores ni la administración actual del sitio LANKAMAR.
+
+## Verificación documental
+
+Las constancias se clasifican según su naturaleza (título, curso, participación, actividad académica). Un enlace a una ficha documental local no debe confundirse con un mecanismo de comprobación institucional oficial.
