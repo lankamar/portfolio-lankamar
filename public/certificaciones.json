@@ -4,7 +4,19 @@
     "emisor": "Universidad de Buenos Aires (CITEP–UBA)",
     "fecha": "2026",
     "enlace": "",
-    "estado": "Diplomatura aprobada · Certificado en trámite"
+    "estado": "Certificado emitido · 5 oct. 2026 · Reg. 43 Libro 1 · 120 h"
+  },
+  {
+    "titulo": "Amplifica tus habilidades de comunicación en la era de la IA",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/7d015af69cc30a243255bc24d2d2fa87a60bc26d324f4418cee7cf5f6c503cc6/"
+  },
+  {
+    "titulo": "Integra la IA Generativa en el Proceso Creativo",
+    "emisor": "LinkedIn",
+    "fecha": "oct. de 2026",
+    "enlace": "https://www.linkedin.com/learning/certificates/16f3b49f1d7dd7bbfae3d125c7b62d2334c16b9e759b3c41db9347568705f572/"
   },
   {
     "titulo": "VibeCoding en la enseñanza. Artesanías didácticas en escenarios algoritmizados.",
@@ -853,6 +865,20 @@
     "enlace": "https://www.linkedin.com/learning/certificates/d383f8870e7c2126a692f7f689f2f4c1ac38be28be844fc97a7a90000b4c6939/"
   },
   {
+    "titulo": "Formación Nodocente en Género y Abordaje de Violencias-UNC-“Ley Micaela”",
+    "emisor": "Universidad Nacional de Córdoba",
+    "fecha": "may. de 2024",
+    "enlace": "https://campus.aulavirtual.unc.edu.ar/mod/customcert/verify_certificate.php?code=CZ7dHoFnMR&lang=es",
+    "id_credencial": "CZ7dHoFnMR"
+  },
+  {
+    "titulo": "Inteligencia Artificial: Empezar a Pensar(la)",
+    "emisor": "Universidad Nacional de Córdoba",
+    "fecha": "may. de 2024",
+    "enlace": "https://campus.aulavirtual.unc.edu.ar/mod/customcert/verify_certificate.php?code=ZzoSAE4HZh&lang=es",
+    "id_credencial": "ZzoSAE4HZh"
+  },
+  {
     "titulo": "Nano Tips para pedir un aumento salarial, con Lucía Aguilar",
     "emisor": "LinkedIn",
     "fecha": "may. de 2024",
@@ -1499,6 +1525,12 @@
     "emisor": "LinkedIn",
     "fecha": "dic. de 2023",
     "enlace": "https://www.linkedin.com/learning/certificates/bc820c04d1805b8562bad86a7aa841c8ae59c779a7d4226a902ee36317c0c5e7/"
+  },
+  {
+    "titulo": "Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn",
+    "emisor": "Microsoft",
+    "fecha": "nov. de 2023",
+    "enlace": "https://www.linkedin.com/learning/certificates/2ed164314c7610f5cdb4b1406389960c09ee16b24f7777590bb304ab487cad17/"
   },
   {
     "titulo": "Fundamentos profesionales de IA generativa, por Microsoft y LinkedIn",
