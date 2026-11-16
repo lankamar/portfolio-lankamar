@@ -8,7 +8,7 @@ export const site = {
   orcid: "0009-0008-8196-6291",
   started: 1990,
   years: 35,
-  credentials: 317,
+  credentials: 318,
   license: "73.519",
   links: {
     email: "mailto:lankamar@gmail.com",
@@ -355,7 +355,7 @@ export const teaching = [
   },
   {
     title: "Formación continua",
-    place: "317 credenciales",
+    place: "318 credenciales",
     text: "Más de 300 certificaciones en salud, gestión y tecnología. La Especialización en Diseño de la Enseñanza con Tecnologías (EDET, CITEP-UBA) está concluida y aprobada; solo resta la emisión del certificado por trámite administrativo.",
   },
 ];
