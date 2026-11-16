@@ -12,7 +12,7 @@ export default function Footer() {
             ORCID
           </a>
         </p>
-        <p>Última actualización: octubre 2026</p>
+        <p>Última actualización: noviembre 2026</p>
       </div>
     </footer>
   );
